@@ -42,6 +42,26 @@
   
 
 <h2 align="left">Languages and Tools:</h2>
+<div>
+  <img src="c++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="ionic.png" title="IONIC" alt="IONIC" width="40" height="40"/>&nbsp;
+  <img src="adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="40" height="40"/>&nbsp;           
+  <img src="c#.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="mssql.png" title="Mssql" alt="Mssql" width="40" height="40"/>&nbsp;
+  <img src="photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="c.png" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="net.png" title=".net framework" alt=".net framework" width="40" height="40"/>&nbsp;
+  <img src="figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
+
+
+
+
+
 
 <br>
 
