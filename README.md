@@ -13,7 +13,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alierenkayhan" alt="Alierenkayhan" width ="600" height = "200" /></a> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Alierenkayhan" alt="Alierenkayhan" width ="500" height = "200" /></a> 
 </p>
 
 
