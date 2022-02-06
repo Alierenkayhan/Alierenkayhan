@@ -43,6 +43,6 @@
 <h2 align="left">:information_source:	Github Information:</h2> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alierenkayhan&show_icons=true&locale=en&layout=compact" alt="Alierenkayhan" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&show_icons=true&locale=en" alt="Alierenkayhan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&show_icons=true&locale=en" alt="Alierenkayhan" /></p>
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&" alt="Alierenkayhan"  /></p>
 
