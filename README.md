@@ -13,7 +13,7 @@
   <img src="https://profile-counter.glitch.me/{Alierenkayhan}/count.svg" />
  </p>
 <br>
-<p><img align="right" src="gip.gif" alt="Alierenkayhan" width ="300" height = "250" style="border-radius: 5px 30px 10px 50px" /></p>
+<p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="300" height = "250" style="border-radius: 5px 30px 10px 50px" /></p>
 
 - 🔭 I’m not currently working   
 - 🌱 I’m currently learning Game Industry
@@ -26,6 +26,7 @@
 </p>
 
 <h2 align = "left">📫 Accounts You Can Reach Me</h2>
+<p><img align="right" src="githubgif.gif" alt="Alierenkayhan" width ="200" height = "200" style="border-radius: 5px 30px 10px 50px" /></p>
 
 
 <table border= "0">
@@ -41,8 +42,9 @@
 </table>
 
 
+
 <br>
-  
+
 
 <h2 align="left">Languages and Tools:</h2>
 <div>
