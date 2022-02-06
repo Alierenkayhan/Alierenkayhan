@@ -10,7 +10,7 @@
 <br>
 
 <br>
-<p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="300" height = "250" /></p>
+<p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="270" height = "250" /></p>
 
 - 🔭 I’m not currently working   
 - 🌱 I’m currently learning Game Industry
