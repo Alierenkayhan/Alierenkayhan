@@ -1,4 +1,4 @@
-<p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "450" /></p>
+<p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "450" style="border-radius: 5px 30px 10px 50px"/></p>
  
 
 <h1 align = "center" >Hi 👋, I'm Ali Eren Kayhan </h1>
@@ -41,7 +41,8 @@
 <br>
 
 <h3 align="left">:information_source:	Github Information:</h3> 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alierenkayhan&show_icons=true&locale=en&layout=compact" alt="Alierenkayhan" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&show_icons=true&locale=en" alt="Alierenkayhan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&show_icons=true&locale=en" alt="Alierenkayhan" /></p>
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&" alt="Alierenkayhan"  /></p>
 
