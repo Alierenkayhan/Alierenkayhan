@@ -17,7 +17,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: ali_erenbatman@hotmail.com
  
-![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-15&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-20&no-bg=true)
 
         
  
