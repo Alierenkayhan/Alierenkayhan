@@ -17,7 +17,7 @@
 - 💬 Ask me about Anything
 
 
-   ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&column-width=1px&no-bg=true)
+   ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w-left=1&no-bg=true)
   
 <h2 align = "left">📫 Accounts You Can Reach Me</h2>
 <p><img align="right" src="githubgif.gif" alt="Alierenkayhan" width ="150" height = "150" style="border-radius: 5px 30px 10px 50px" /></p>
