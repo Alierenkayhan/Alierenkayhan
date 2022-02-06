@@ -1,12 +1,11 @@
-### 
-![18824957](https://user-images.githubusercontent.com/32596425/152689546-f1fab742-9d2b-4e27-a0ef-cd98903e0c69.jpg)
+![image1](https://user-images.githubusercontent.com/32596425/152690191-4908cb4d-cea2-412e-933d-f00ba4e74fee.png)
 
 <h1 align = "center" >Hi 👋, I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
-<!--
-**Alierenkayhan/Alierenkayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
