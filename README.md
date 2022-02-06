@@ -46,6 +46,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div>
+
   <img src="c++.png" title="C++" alt="C++" width="60" height="60"/>&nbsp;&nbsp;
   <img src="ionic.png" title="IONIC" alt="IONIC" width="60" height="60"/>&nbsp;&nbsp;
   <img src="adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="60" height="60"/>&nbsp;&nbsp;           
