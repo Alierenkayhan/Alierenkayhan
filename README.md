@@ -1,8 +1,13 @@
 <p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "450" border-radius=" 5px 30px 10px 50px" /></p>
  
 
-<h1 align = "center" >Hi 👋, I'm Ali Eren Kayhan </h1>
+<h1 align = "center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
+<br>
+ <p align="center"> 
+  Visitor Counter <br>
+  <img src="https://profile-counter.glitch.me/{Alierenkayhan}/count.svg" />
+ </p>
 
 <p><img align="right" src="gip.gif" alt="Alierenkayhan" width ="300" height = "250" style="border-radius: 5px 30px 10px 50px" /></p>
 
@@ -10,6 +15,7 @@
 - 🌱 I’m currently learning Game Industry
 - 💬 Ask me about Anything
 <p> </p>
+
 <br>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
