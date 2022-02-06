@@ -18,12 +18,10 @@
 - 🔭 I’m not currently working   
 - 🌱 I’m currently learning Game Industry
 - 💬 Ask me about Anything
-<p> </p>
 
-    
-   ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-   ![image](https://user-images.githubusercontent.com/32596425/152700298-b758322e-b743-4bcb-b97d-2614da0b06b6.png)
- 
+
+   ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&&no-bg=true)
+  
 
 <h2 align = "left">📫 Accounts You Can Reach Me</h2>
 <p><img align="right" src="githubgif.gif" alt="Alierenkayhan" width ="150" height = "150" style="border-radius: 5px 30px 10px 50px" /></p>
