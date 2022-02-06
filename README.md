@@ -1,4 +1,4 @@
-<p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "500" /></p>
+<p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "400" /></p>
  
 
 <h1 align = "center" >Hi 👋, I'm Ali Eren Kayhan </h1>
