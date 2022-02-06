@@ -40,11 +40,10 @@
 <br>
 
 <h2 align="left">:information_source:	Github Information:</h2> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alierenkayhan)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&layout=compact)
 <br>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alierenkayhan)
+<br>
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&" alt="Alierenkayhan"  /></p>
 
  
