@@ -18,7 +18,7 @@
 
 
 <br>
-<h2 align = "left">📫 Accounts You Can Reach Me</h3>
+<h2 align = "left">📫 Accounts You Can Reach Me</h2>
 
 <ul align="left">
   <li><img align="center" src="linkedin.png"  height="40" width="40" />  Ali Eren Kayhan</li>
@@ -36,11 +36,11 @@
 <br>
   
  
-<h2 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <br>
 
-<h3 align="left">:information_source:	Github Information:</h3> 
+<h2 align="left">:information_source:	Github Information:</h2> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alierenkayhan&show_icons=true&locale=en&layout=compact" alt="Alierenkayhan" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&show_icons=true&locale=en" alt="Alierenkayhan" /></p>
