@@ -13,8 +13,6 @@
 <p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "400"  /></p>
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
-<br>
-<br>
   
   
 <!---------------------------------------------------------About Me------------------------------------------------------------------------------------------>  
@@ -97,5 +95,5 @@
 </details>
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
 </p> 
