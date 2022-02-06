@@ -16,8 +16,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Alierenkayhan" alt="Alierenkayhan" width ="510" height = "200" /></a> 
 </p>
 
-
-<br>
 <h2 align = "left">📫 Accounts You Can Reach Me</h2>
 
 <ul align="left">
@@ -43,6 +41,6 @@
 <h2 align="left">:information_source:	Github Information:</h2> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alierenkayhan&show_icons=true&locale=en&layout=compact" alt="Alierenkayhan" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&show_icons=true&locale=en" alt="Alierenkayhan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&show_icons=true&locale=en" alt="Alierenkayhan" /></p>
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&" alt="Alierenkayhan"  /></p>
 
