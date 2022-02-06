@@ -19,7 +19,7 @@
 <h2 align = "left">📫 Accounts You Can Reach Me</h2>
 
 
-<table border= "none">
+<table border= "0">
   <tr>
     <td><img align="center" src="linkedin.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;Ali Eren Kayhan</td>
     <td><img align="center" src="instagram.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;kayhanalieren</td>
@@ -42,14 +42,9 @@
 <h2 align="left">:information_source:	Github Information:</h2> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alierenkayhan)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&layout=compact)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
-
+<br>
 
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&" alt="Alierenkayhan"  /></p>
-
 
  
