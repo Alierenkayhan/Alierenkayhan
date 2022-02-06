@@ -13,16 +13,15 @@
   <img src="https://profile-counter.glitch.me/{Alierenkayhan}/count.svg" />
  </p>
 <br>
-<p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="300" height = "250" style="border-radius: 5px 30px 10px 50px" /></p>
+<p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="300" height = "250" /></p>
 
 - 🔭 I’m not currently working   
 - 🌱 I’m currently learning Game Industry
 - 💬 Ask me about Anything
 
 
-   ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&&no-bg=true)
+   ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&&&margin-w=20&margin-w=-20&no-bg=true)
   
-
 <h2 align = "left">📫 Accounts You Can Reach Me</h2>
 <p><img align="right" src="githubgif.gif" alt="Alierenkayhan" width ="150" height = "150" style="border-radius: 5px 30px 10px 50px" /></p>
 
