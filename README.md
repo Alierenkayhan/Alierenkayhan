@@ -49,7 +49,7 @@
   <img src="c++.png" title="C++" alt="C++" width="60" height="60"/>&nbsp;&nbsp;
   <img src="ionic.png" title="IONIC" alt="IONIC" width="60" height="60"/>&nbsp;&nbsp;
   <img src="adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="60" height="60"/>&nbsp;&nbsp;           
-  <img src="csharp.png" title="C#" alt="C#" width="80" height="60"/>&nbsp;&nbsp;
+  <img src="csharp.png" title="C#" alt="C#" width="60" height="60"/>&nbsp;&nbsp;
   <img src="bootstrap.png" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;&nbsp;
   <img src="mssql.png" title="Mssql" alt="Mssql" width="60" height="60"/>&nbsp;&nbsp;
   <img src="photoshop.png" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;&nbsp;
