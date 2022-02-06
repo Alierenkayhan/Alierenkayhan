@@ -14,8 +14,8 @@
 
 - 🔭 I’m not currently working   
 - 🌱 I’m currently learning Game Industry
-- 💬 Ask me about Anything
-
+- 💬 Ask me about anything
+- 📫 How to reach me: ali_erenbatman@hotmail.com
 
    ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w-left=1&no-bg=true)
   
