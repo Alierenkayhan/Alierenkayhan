@@ -22,7 +22,7 @@
 <summary font-size="100">:man_technologist:About Me</summary> 
  
 
-<p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="275" height = "300" /></p>
+<p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="285" height = "320" /></p>
  
 -   I live in Istanbul, Turkey.
 - 🗣️ I can speak English, Turkish. and German.
