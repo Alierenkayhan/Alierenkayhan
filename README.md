@@ -14,7 +14,8 @@
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
   
-  
+<br>
+
 <!---------------------------------------------------------About Me------------------------------------------------------------------------------------------>  
 <details>
 <summary font-size="100">:man_technologist:About Me</summary> 
