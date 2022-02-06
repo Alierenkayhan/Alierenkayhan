@@ -65,7 +65,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&layout=compact)
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alierenkayhan)
+![GitHub stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Alierenkayhan) 
 <br>
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&" alt="Alierenkayhan"  /></p>
 
