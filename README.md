@@ -4,19 +4,16 @@
 <h1 align = "center" >Hi 👋, I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
 
-<p><img align="right" src="gip.gif" alt="Alierenkayhan" width ="300" height = "250" /></p>
+<p><img align="right" src="gip.gif" alt="Alierenkayhan" width ="300" height = "250" style="border-radius: 5px 30px 10px 50px" /></p>
 
 - 🔭 I’m not currently working   
 - 🌱 I’m currently learning Game Industry
 - 💬 Ask me about Anything
- <p  align="left"> <img src="https://komarev.com/ghpvc/?username=Alierenkayhan&label=Profile%20views&color=0e75b6&style=flat" alt="Alierenkayhan" /> </p>
-
-
 
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alierenkayhan" alt="Alierenkayhan" /></a> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Alierenkayhan" alt="Alierenkayhan" width ="500" height = "300" /></a> 
 </p>
 
 
