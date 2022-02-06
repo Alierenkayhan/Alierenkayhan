@@ -9,23 +9,29 @@
 
 <p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "400"  /></p>
 
-<h1 align = "center" >Hi,+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ali Eren Kayhan </h1>
+<h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Ali Eren Kayhan </h1>
 
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
 <br>
 
 <br>
-<p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="275" height = "235" /></p>
+  
+  
+  
+<details><summary><h2 align = "left">:man_technologist:About Me</h2></summary>
 
+
+<p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="275" height = "235" /></p>
+ 
 - 🔭 I’m not currently working   
 - 🌱 I’m currently learning Game Industry
 - 💬 Ask me about anything
 - 📫 How to reach me: ali_erenbatman@hotmail.com
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-22&no-bg=true)
+   
+</details>
 
-        
- 
     
 
  <h2 align = "left">📫 Accounts You Can Reach Me</h2>
