@@ -46,19 +46,18 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div>
-
-  <img src="c++.png" title="C++" alt="C++" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="ionic.png" title="IONIC" alt="IONIC" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="60" height="60"/>&nbsp;&nbsp;           
-  <img src="csharp.png" title="C#" alt="C#" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="bootstrap.png" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="mssql.png" title="Mssql" alt="Mssql" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="photoshop.png" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="c.png" title="C" alt="C" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="unity.png" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="css.png" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="figma.png" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="html.png" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;&nbsp;
+ <code>  <img src="c++.png" title="C++" alt="C++" width="30" height="30"/>&nbsp;&nbsp; </code>
+ <code>  <img src="ionic.png" title="IONIC" alt="IONIC" width="20" height="20"/>&nbsp;&nbsp;  </code>
+ <code>  <img src="adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="20" height="20"/>&nbsp;&nbsp;  </code>     
+ <code>  <img src="csharp.png" title="C#" alt="C#" width="20" height="20"/>&nbsp;&nbsp;  </code>
+ <code>  <img src="bootstrap.png" title="Bootstrap" alt="Bootstrap" width="20" height="20"/>&nbsp;&nbsp;  </code>
+ <code>  <img src="mssql.png" title="Mssql" alt="Mssql" width="20" height="20"/>&nbsp;&nbsp;  </code>
+ <code>  <img src="photoshop.png" title="Photoshop" alt="Photoshop" width="20" height="20"/>&nbsp;&nbsp;  </code>
+ <code>  <img src="c.png" title="C" alt="C" width="20" height="20"/>&nbsp;&nbsp;  </code>
+ <code>  <img src="unity.png" title="Unity" alt="Unity" width="20" height="20"/>&nbsp;&nbsp;  </code>
+ <code>  <img src="css.png" title="CSS" alt="CSS" width="20" height="20"/>&nbsp;&nbsp;  </code>
+ <code>  <img src="figma.png" title="Figma" alt="Figma" width="20" height="20"/>&nbsp;&nbsp;  </code>
+ <code>  <img src="html.png" title="HTML" alt="HTML" width="20" height="20"/>&nbsp;&nbsp;  </code>
 </div>
 
 
