@@ -1,4 +1,4 @@
-<p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "350"  /></p>
+<p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "400"  /></p>
 
 <br>
 <br>
