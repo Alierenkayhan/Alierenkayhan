@@ -20,10 +20,10 @@
 - 💬 Ask me about Anything
 <p> </p>
 
- <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alierenkayhan" alt="Alierenkayhan" width ="510" height = "200" /></a> 
-</p>
+    
+   ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+   ![image](https://user-images.githubusercontent.com/32596425/152700298-b758322e-b743-4bcb-b97d-2614da0b06b6.png)
+ 
 
 <h2 align = "left">📫 Accounts You Can Reach Me</h2>
 <p><img align="right" src="githubgif.gif" alt="Alierenkayhan" width ="150" height = "150" style="border-radius: 5px 30px 10px 50px" /></p>
