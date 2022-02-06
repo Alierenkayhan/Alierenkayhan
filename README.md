@@ -1,10 +1,5 @@
 <p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "400"  /></p>
 
-<br>
-<br>
-<br>
-<br>
-
 <h1 align = "center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
 <br>
@@ -20,7 +15,7 @@
 - 💬 Ask me about Anything
 
 
-   ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&&&margin-w=20&margin-w=-20&no-bg=true)
+   ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&&no-bg=true)
   
 <h2 align = "left">📫 Accounts You Can Reach Me</h2>
 <p><img align="right" src="githubgif.gif" alt="Alierenkayhan" width ="150" height = "150" style="border-radius: 5px 30px 10px 50px" /></p>
