@@ -19,7 +19,7 @@
 <h2 align = "left">📫 Accounts You Can Reach Me</h2>
 
 
-<table style = "border: none;">
+<table border= "none">
   <tr>
     <td><img align="center" src="linkedin.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;Ali Eren Kayhan</td>
     <td><img align="center" src="instagram.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;kayhanalieren</td>
