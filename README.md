@@ -1,7 +1,9 @@
-<p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "450" border-radius=" 5px 30px 10px 50px" /></p>
- 
+<p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "450"  /></p>
+
 <br>
-<h1 align = "center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Ali Eren Kayhan </h1>
+<br>
+
+<h1 align = "center" >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
 <br>
  <p align="center"> 
@@ -16,8 +18,7 @@
 - 💬 Ask me about Anything
 <p> </p>
 
-<br>
-<p align="left"> 
+ <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Alierenkayhan" alt="Alierenkayhan" width ="510" height = "200" /></a> 
 </p>
