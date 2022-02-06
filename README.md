@@ -9,7 +9,7 @@
 - 🔭 I’m not currently working   
 - 🌱 I’m currently learning Game Industry
 - 💬 Ask me about Anything
-
+<p> </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
