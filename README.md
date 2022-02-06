@@ -18,16 +18,21 @@
   
   
   
-<details><summary><h2 align = "left">:man_technologist:About Me</h2></summary>
-
+<details>
+ <summary font-size="100">:man_technologist:About Me</summary> 
+ 
 
 <p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="275" height = "235" /></p>
  
+-   I live in Istanbul, Turkey
+- 🗣️ I can speak English, Turkish and Deutsch.
+- 📚 I'm studying Computer Education and Educational Technology (CET) at Boğaziçi University.
 - 🔭 I’m not currently working   
 - 🌱 I’m currently learning Game Industry
 - 💬 Ask me about anything
 - 📫 How to reach me: ali_erenbatman@hotmail.com
- 
+
+  
 ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-22&no-bg=true)
    
 </details>
