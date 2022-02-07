@@ -10,7 +10,7 @@
 
 <!-------------------------------------------------first part-------------------------------------------------------------------------------------->
 
-<p><img align="left" src="image1.png" alt="Alierenkayhan" width ="1100" height = "400"  /></p>
+<p><img align="left" src="images/image/image1.png" alt="Alierenkayhan" width ="1100" height = "400"  /></p>
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
   
@@ -22,7 +22,7 @@
  <summary> :man_technologist: About Me</summary> 
  
 
-<p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="275" height = "320" /></p>
+<p><img align="right" src="images/gif/gif.gif" alt="Alierenkayhan" width ="275" height = "320" /></p>
  
 -   I live in Istanbul, Turkey.
 - 🗣️ I can speak English, Turkish. and German.
@@ -45,17 +45,17 @@
 <h2 align="center">📫 Accounts You Can Reach Me 📫</h2>
 <summary>📫 Accounts You Can Reach Me</summary> 
 
-<p><img align="right" src="githubgif.gif" alt="Alierenkayhan" width ="150" height = "150" style="border-radius: 5px 30px 10px 50px" /></p>
+<p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="150" height = "150" style="border-radius: 5px 30px 10px 50px" /></p>
 
 <table border= "0">
   <tr>
-    <td><img align="center" src="linkedin.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;Ali Eren Kayhan</td>
-    <td><img align="center" src="instagram.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;kayhanalieren</td>
-    <td><img align="center" src="facebook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;Ali Eren Kayhan</td>
+    <td><img align="center" src="images/media logo/linkedin.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;Ali Eren Kayhan</td>
+    <td><img align="center" src="images/media logo/instagram.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;kayhanalieren</td>
+    <td><img align="center" src="images/media logo/facebook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;Ali Eren Kayhan</td>
   </tr>
   <tr>
-    <td><img align="center" src="Itch.io_logo.png"  height="40" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;Alierenkayhan</td>
-    <td><img align="center" src="outlook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;ali_erenbatman@hotmail.com</td>
+    <td><img align="center" src="images/media logo/Itch.io_logo.png"  height="40" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;Alierenkayhan</td>
+    <td><img align="center" src="images/media logo/outlook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;ali_erenbatman@hotmail.com</td>
   </tr>
 </table>
 <br>
@@ -71,17 +71,17 @@
    <br>
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="C" alt="C" width="40" height="40"/>&nbsp;&nbsp; 
-  <img src="csharp.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="c++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp; 
-  <img src="bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="ionic.png" title="IONIC" alt="IONIC" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="mssql.png" title="Mssql" alt="Mssql" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/csharp.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/c++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp; 
+  <img src="images/languages and tools logo/bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/ionic.png" title="IONIC" alt="IONIC" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/mssql.png" title="Mssql" alt="Mssql" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
 </div>
   <br>
 </details>
