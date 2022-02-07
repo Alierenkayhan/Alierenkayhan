@@ -18,7 +18,8 @@
 
 <!---------------------------------------------------------About Me------------------------------------------------------------------------------------------>  
 <details>
- <summary> :man_technologist:About Me</summary> 
+ <h2 align="center">:man_technologist: About Me :man_technologist:</h2>
+ <summary> :man_technologist: About Me</summary> 
  
 
 <p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="275" height = "320" /></p>
@@ -40,6 +41,7 @@
 <!---------------------------------------------------------Accounts You Can Reach Me----------------------------------------------------------------------------------------->  
 
 <details>
+<h2 align="center">📫 Accounts You Can Reach Me 📫</h2>
 <summary>📫 Accounts You Can Reach Me</summary> 
 
 <p><img align="right" src="githubgif.gif" alt="Alierenkayhan" width ="150" height = "150" style="border-radius: 5px 30px 10px 50px" /></p>
@@ -62,7 +64,8 @@
 <!---------------------------------------------------------Languages and Tools:----------------------------------------------------------------------------------------->  
 
 <details>
- <summary> 🧰 Languages and Tools:</summary> 
+  <h2 align="center">🧰 Languages and Tools 🧰</h2>
+ <summary> 🧰 Languages and Tools</summary> 
    <br>
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="C" alt="C" width="40" height="40"/>&nbsp;&nbsp; 
@@ -85,9 +88,8 @@
 <!---------------------------------------------------------Github Information----------------------------------------------------------------------------------------->  
 
 <details>
-<summary> :information_source:	Github Information:</summary> <br>
-
-  
+ <h2 align="center">:information_source:Github Information :information_source</h2>
+<summary> :information_source:	Github Information</summary> <br>
  <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -107,13 +109,39 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Alierenkayhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
  
-  
-  
-  
-  
-  
 </details>
+
+
+
+
+<!---------------------------------------------------------Github Repositories----------------------------------------------------------------------------------------->  
+
+<details>
+<summary> 💻 Github Repositories </summary> <br>
+ <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Alierenkayhan/CET-301" title="CET-301">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=CET-301&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/Alierenkayhan/Unity-my-works" title="Unity-my-works"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Unity-my-works&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Alierenkayhan/Html-my-works" title="Html-my-works"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Html-my-works&theme=react&border_color=61dafb&border_radius=10"></a>
  
+  <a align="right" href="https://github.com/Alierenkayhan/Csharp-my-works" title="Csharp-my-works"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Csharp-my-works&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Alierenkayhan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4> 
+</details>
+
+
+<!---------------------------------------------------------footer----------------------------------------------------------------------------------------->   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
 </p> 
