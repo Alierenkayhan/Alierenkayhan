@@ -88,7 +88,7 @@
 <!---------------------------------------------------------Github Information----------------------------------------------------------------------------------------->  
 
 <details>
- <h2 align="center">:information_source:Github Information :information_source</h2>
+ <h2 align="center">:information_source: Github Information :information_source:</h2>
 <summary> :information_source:	Github Information</summary> <br>
  <p align=center>
   <div align=center>
