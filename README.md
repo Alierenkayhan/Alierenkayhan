@@ -22,7 +22,7 @@
  <summary> :man_technologist: About Me</summary> 
  
 
-<p><img align="right" src="images/gif/gif.gif" alt="Alierenkayhan" width ="275" height = "320" /></p>
+<p><img align="right" src="images/gif/gif2.gif" alt="Alierenkayhan" width ="275" height = "320" /></p>
  
 -    I live in Istanbul, Turkey.
 -    I am co-founder of MyEdu.
