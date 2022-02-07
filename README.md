@@ -10,7 +10,7 @@
 
 <!-------------------------------------------------first part-------------------------------------------------------------------------------------->
 
-<p><img align="left" src="images/image/image1.png" alt="Alierenkayhan" width ="1100" height = "400"  /></p>
+<p><img align="left" src="images/image/image1.png" alt="Alierenkayhan" width ="1100" height = "400" /></p>
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
   
@@ -24,7 +24,8 @@
 
 <p><img align="right" src="images/gif/gif.gif" alt="Alierenkayhan" width ="275" height = "320" /></p>
  
--   I live in Istanbul, Turkey.
+-    I live in Istanbul, Turkey.
+-    I am co-founder of MyEdu.
 - 🗣️ I can speak English, Turkish. and German.
 - 📚 I'm studying Computer Education and Educational Technology (CET) at Boğaziçi University.
 - 🔭 I’m not currently working.   
