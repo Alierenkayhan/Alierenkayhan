@@ -10,7 +10,7 @@
 
 <!-------------------------------------------------first part-------------------------------------------------------------------------------------->
 
-<p><img align="left" src="images/image/image1.png" alt="Alierenkayhan" width ="1100" height = "400" /></p>
+<p><img align="left" src="images/image/firstimage.png" alt="Alierenkayhan" width ="1100" height = "400" /></p>
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
   
