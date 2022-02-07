@@ -69,17 +69,17 @@
    <br>
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="C" alt="C" width="40" height="40"/>&nbsp;&nbsp; 
-  <img src="ionic.png" title="IONIC" alt="IONIC" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="csharp.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="mssql.png" title="Mssql" alt="Mssql" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="c.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp; 
-  <img src="figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="c++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp; 
+  <img src="bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="ionic.png" title="IONIC" alt="IONIC" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="mssql.png" title="Mssql" alt="Mssql" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
 </div>
 </details>
 
