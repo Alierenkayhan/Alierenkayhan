@@ -18,7 +18,7 @@
 
 <!---------------------------------------------------------About Me------------------------------------------------------------------------------------------>  
 <details>
-<summary font-size="100">:man_technologist:About Me</summary> 
+ <summary> :man_technologist:About Me</summary> 
  
 
 <p><img align="right" src="gif.gif" alt="Alierenkayhan" width ="275" height = "320" /></p>
@@ -40,8 +40,8 @@
 <!---------------------------------------------------------Accounts You Can Reach Me----------------------------------------------------------------------------------------->  
 
 <details>
-<summary font-size="100">📫 Accounts You Can Reach Me</summary> 
- 
+<summary>📫 Accounts You Can Reach Me</summary> 
+
 <p><img align="right" src="githubgif.gif" alt="Alierenkayhan" width ="150" height = "150" style="border-radius: 5px 30px 10px 50px" /></p>
 
 <table border= "0">
@@ -62,20 +62,21 @@
 <!---------------------------------------------------------Languages and Tools:----------------------------------------------------------------------------------------->  
 
 <details>
- <summary font-size="100"> 🧰 Languages and Tools:</summary> 
+ <summary> 🧰 Languages and Tools:</summary> 
+   <br>
 <div>
- <code>  <img src="c++.png" title="C++" alt="C++" width="30" height="30"/>&nbsp;&nbsp; </code>
- <code>  <img src="ionic.png" title="IONIC" alt="IONIC" width="20" height="20"/>&nbsp;&nbsp;  </code>
- <code>  <img src="adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="20" height="20"/>&nbsp;&nbsp;  </code>     
- <code>  <img src="csharp.png" title="C#" alt="C#" width="20" height="20"/>&nbsp;&nbsp;  </code>
- <code>  <img src="bootstrap.png" title="Bootstrap" alt="Bootstrap" width="20" height="20"/>&nbsp;&nbsp;  </code>
- <code>  <img src="mssql.png" title="Mssql" alt="Mssql" width="20" height="20"/>&nbsp;&nbsp;  </code>
- <code>  <img src="photoshop.png" title="Photoshop" alt="Photoshop" width="20" height="20"/>&nbsp;&nbsp;  </code>
- <code>  <img src="c.png" title="C" alt="C" width="20" height="20"/>&nbsp;&nbsp;  </code>
- <code>  <img src="unity.png" title="Unity" alt="Unity" width="20" height="20"/>&nbsp;&nbsp;  </code>
- <code>  <img src="css.png" title="CSS" alt="CSS" width="20" height="20"/>&nbsp;&nbsp;  </code>
- <code>  <img src="figma.png" title="Figma" alt="Figma" width="20" height="20"/>&nbsp;&nbsp;  </code>
- <code>  <img src="html.png" title="HTML" alt="HTML" width="20" height="20"/>&nbsp;&nbsp;  </code>
+  <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="C" alt="C" width="40" height="40"/>&nbsp;&nbsp; 
+  <img src="ionic.png" title="IONIC" alt="IONIC" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="csharp.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="mssql.png" title="Mssql" alt="Mssql" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="c.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp; 
+  <img src="figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;  
 </div>
 </details>
 
@@ -84,8 +85,9 @@
 <!---------------------------------------------------------Github Information----------------------------------------------------------------------------------------->  
 
 <details>
-<summary font-size="100"> :information_source:	Github Information:</summary> 
- 
+<summary> :information_source:	Github Information:</summary> <br>
+
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&layout=compact)
  
 ![GitHub stats](https://bad-apple-github-readme.vercel.app/api?&username=Alierenkayhan) 
