@@ -33,7 +33,8 @@
 - 📫 How to reach me: ali_erenbatman@hotmail.com
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-22&no-bg=true)
-   
+ <br>
+  
 </details>
 
     
@@ -57,6 +58,7 @@
     <td><img align="center" src="outlook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;ali_erenbatman@hotmail.com</td>
   </tr>
 </table>
+<br>
 
 </details>
 
@@ -81,6 +83,7 @@
   <img src="photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
 </div>
+  <br>
 </details>
 
 
@@ -108,7 +111,7 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Alierenkayhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
- 
+ <br>
 </details>
 
 
@@ -139,6 +142,7 @@
 <h4 align="center">
   <a href="https://github.com/Alierenkayhan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> 
+  <br>
 </details>
 
 
