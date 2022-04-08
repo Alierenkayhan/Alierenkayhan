@@ -26,7 +26,7 @@
  
 -    I live in Istanbul, Turkey.
 -    I am co-founder of MyEdu.
-- 🗣️ I can speak English, Turkish. and German.
+- 🗣️ I can speak English, Turkish, and German.
 - 📚 I'm studying Computer Education and Educational Technology (CET) at Boğaziçi University.
 - 🔭 I’m not currently working.   
 - 🌱 I’m currently learning Game Industry.
