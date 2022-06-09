@@ -84,6 +84,7 @@
   <img src="images/languages and tools logo/adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="images/languages and tools logo/photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="images/languages and tools logo/unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
+  <img src="images/languages and tools logo/asp.net mvc core.jfif" title="Unity" alt="Asp.net mvc core" width="40" height="40"/>&nbsp;&nbsp;  
 </div>
   <br>
 </details>
