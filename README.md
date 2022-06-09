@@ -46,7 +46,7 @@
 <h2 align="center">📫 Accounts You Can Reach Me 📫</h2>
 <summary>📫 Accounts You Can Reach Me</summary> 
 
-<p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="100" height = "100" style="border-radius: 5px 30px 10px 50px;" /></p>
+<p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="130" height = "130" style="border-radius: 5px 30px 10px 50px;" /></p>
 
 <table border= "0">
   <tr>
