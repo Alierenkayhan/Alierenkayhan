@@ -11,7 +11,7 @@
 <!-------------------------------------------------first part-------------------------------------------------------------------------------------->
 
 <p><img align="left" src="images/image/image.png" alt="Alierenkayhan" width ="1100" height = "400" /></p>
-<h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> I'm Ali Eren Kayhan </h1>
+<h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 10px;height: auto;"> I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
   
 <br>
@@ -57,6 +57,7 @@
   <tr>
     <td><img align="center" src="images/media logo/Itch.io_logo.png"  height="40" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;Alierenkayhan</td>
     <td><img align="center" src="images/media logo/outlook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;ali_erenbatman@hotmail.com</td>
+     <td><img align="center" src="images/media logo/outlook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;https://alierenkayhanbouncet.blogspot.com/</td>
   </tr>
 </table>
 <br>
