@@ -60,7 +60,7 @@
      <td><img align="center" src="images/media logo/blogger-logo.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;alierenkayhanbouncet</td>
   </tr>
   <tr>
-    <td>alierenkayhan.github.io/</td>
+    <td><img align="center" src="images/logom.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;alierenkayhan.github.io/</td>
   </tr>
 </table>
 <br>
