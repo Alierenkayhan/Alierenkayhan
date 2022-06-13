@@ -46,7 +46,7 @@
 <h2 align="center">📫 Accounts You Can Reach Me 📫</h2>
 <summary>📫 Accounts You Can Reach Me</summary> 
 
-<p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="130" height = "130" style="border-radius: 5px 30px 10px 50px;margin-top:-10px;" /></p>
+<p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="130" height = "130" style="border-radius: 5px 30px 10px 50px;margin-top:-20px;" /></p>
 
 <table border= "0">
   <tr>
@@ -60,7 +60,7 @@
      <td><img align="center" src="images/media logo/blogger-logo.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;alierenkayhanbouncet</td>
   </tr>
   <tr>
-    <td><img align="center" src="images/logom.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;alierenkayhan.github.io/</td>
+    <td><img align="center" src="images/logom.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;alierenkayhan.github.io</td>
   </tr>
 </table>
 <br>
