@@ -50,17 +50,17 @@
 
 <table border= "0">
   <tr>
-    <td><a href="https://www.linkedin.com/in/ali-eren-kayhan-5164b6150/"><img align="center" src="images/media logo/linkedin.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;Ali Eren Kayhan</a></td>
-    <td><a href="https://www.instagram.com/kayhanalieren/"><img align="center" src="images/media logo/instagram.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;kayhanalieren</a></td>
-    <td><a href="https://www.facebook.com/alieren.kayhan.5/"><img align="center" src="images/media logo/facebook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;Ali Eren Kayhan</a></td>
+    <td><img align="center" src="images/media logo/linkedin.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ali-eren-kayhan-5164b6150/">Ali Eren Kayhan</a></td>
+    <td><img align="center" src="images/media logo/instagram.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/kayhanalieren/">kayhanalieren</a></td>
+    <td><img align="center" src="images/media logo/facebook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/alieren.kayhan.5/">Ali Eren Kayhan</a></td>
   </tr>
   <tr>
-    <td><a href="https://alierenkayhan.itch.io/"><img align="center" src="images/media logo/Itch.io_logo.png"  height="40" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;Alierenkayhan</a></td>
+    <td><img align="center" src="images/media logo/Itch.io_logo.png"  height="40" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alierenkayhan.itch.io/">Alierenkayhan</a></td>
     <td><img align="center" src="images/media logo/outlook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;ali_erenbatman@hotmail.com</td>
-     <td><a href="https://alierenkayhanbouncet.blogspot.com/"><img align="center" src="images/media logo/blogger-logo.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;alierenkayhanbouncet</a></td>
+     <td><img align="center" src="images/media logo/blogger-logo.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alierenkayhanbouncet.blogspot.com/">alierenkayhanbouncet</a></td>
   </tr>
   <tr>
-    <td><a href="https://alierenkayhan.github.io/"><img align="center" src="images/logom.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;alierenkayhan.github.io</a></td>
+    <td><img align="center" src="images/logom.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alierenkayhan.github.io/">alierenkayhan.github.io</a></td>
   </tr>
 </table>
 <br>
