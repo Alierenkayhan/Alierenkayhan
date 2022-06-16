@@ -131,8 +131,8 @@
 
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Alierenkayhan/Asp-Dot-Net-BOUN-CET-322-Homework" title="Asp-Dot-Net-BOUN-CET-322-Homework">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Asp-Dot-Net-BOUN-CET-322-Homework&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="right" href="https://github.com/Alierenkayhan/Asp-Dot-Net-MVC-Core-BOUN-CET-322-Project" title="Asp-Dot-Net-MVC-Core-BOUN-CET-322-Project">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Asp-Dot-Net-MVC-Core-BOUN-CET-322-Project&theme=react&border_color=61dafb&border_radius=10"></a>
   
   <a align="right" href="https://github.com/Alierenkayhan/CET-301" title="CET-301"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=CET-301&theme=react&border_color=61dafb&border_radius=10"></a>
   
