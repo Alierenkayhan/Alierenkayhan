@@ -37,7 +37,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: ali_erenbatman@hotmail.com
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-22&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-10&no-bg=true)
  <br>
 </details>
 
@@ -182,8 +182,8 @@
 
 <br>
 <div width="100%" align="center">
- <a align="right" href="https://github.com/Alierenkayhan/Asp-Dot-Net-MVC-Core-BOUN-CET-322-Project" title="Asp-Dot-Net-MVC-Core-BOUN-CET-322-Project">
-  <img align="left"  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Asp-Dot-Net-MVC-Core-BOUN-CET-322-Project&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="right" href="https://github.com/Alierenkayhan/Atolye" title="Atolye">
+  <img align="left"  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Atolye&theme=react&border_color=61dafb&border_radius=10"></a>
   
   <a align="right" href="https://github.com/Alierenkayhan/CET-301" title="CET-301">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=CET-301&theme=react&border_color=61dafb&border_radius=10"></a>
