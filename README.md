@@ -53,7 +53,7 @@
 
 <table border= "0">
   <tr>
-    <td><img align="center" src="images/media logo/linkedin.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ali-eren-kayhan-5164b6150/">Ali Eren Kayhan</a></td>
+    <td><img align="center" src="images/media logo/linkedin.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/ali-eren-kayhan">Ali Eren Kayhan</a></td>
     <td><img align="center" src="images/media logo/instagram.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/kayhanalieren/">kayhanalieren</a></td>
     <td><img align="center" src="images/media logo/facebook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/alieren.kayhan.5/">Ali Eren Kayhan</a></td>
   </tr>
