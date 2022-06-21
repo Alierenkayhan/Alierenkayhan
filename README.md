@@ -37,7 +37,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: ali_erenbatman@hotmail.com
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-18&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-17&no-bg=true)
  <br>
 </details>
 
@@ -198,7 +198,7 @@
   <a align="right" href="https://github.com/Alierenkayhan/Unity-my-works" title="Unity-my-works">
     <img align="right"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Unity-my-works&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/Alierenkayhan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
