@@ -37,7 +37,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: ali_erenbatman@hotmail.com
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-22&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-18&no-bg=true)
  <br>
 </details>
 
@@ -190,7 +190,7 @@
   
 </div>
   
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Alierenkayhan/Html-my-works" title="Html-my-works">
     <img align="left"  height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Html-my-works&theme=react&border_color=61dafb&border_radius=10"></a>
