@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td><img align="center" src="images/logom.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alierenkayhan.github.io/">alierenkayhan.github.io</a></td>
-    <td><img align="center" src="images/logom.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ted.com/profiles/34139055">Ali Eren Kayhan</a></td>
+    <td><img align="center" src="images/media logo/ted-logo.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ted.com/profiles/34139055">Ali Eren Kayhan</a></td>
   </tr>
 </table>
 <br>
@@ -194,7 +194,7 @@
 <br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Alierenkayhan/Html-my-works" title="Html-my-works">
-    <img align="left"  height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Html-my-works&theme=react&border_color=61dafb&border_radius=10"></a>
+    <img align="left"  height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Html-my-works&theme=react&border_color=61dafb&border_radius=10"></a>
  
   <a align="right" href="https://github.com/Alierenkayhan/Unity-my-works" title="Unity-my-works">
     <img align="right"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Unity-my-works&theme=react&border_color=61dafb&border_radius=10"></a>
