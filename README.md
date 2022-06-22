@@ -11,7 +11,7 @@
 <!-------------------------------------------------first part-------------------------------------------------------------------------------------->
 
 <p><img align="left" src="images/image/image.png" alt="Alierenkayhan" width ="1100" height = "270"/></p>
-<h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" height="45"> I'm Ali Eren Kayhan </h1>
+<h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
 
 <div align = "center">
