@@ -26,7 +26,7 @@
  <summary> :man_technologist: About Me</summary> 
  
 
-<p><img align="right" src="images/gif/gif2.gif" alt="Alierenkayhan" width ="275" height = "320" /></p>
+<p><img align="right" src="images/gif/gif2.gif" alt="Alierenkayhan" width ="255" height = "320" /></p>
  
 -    I live in Istanbul, Turkey.
 -    I am co-founder of MyEdu.
@@ -37,7 +37,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: ali_erenbatman@hotmail.com
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-22&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-10&no-bg=true)
  <br>
 </details>
 
