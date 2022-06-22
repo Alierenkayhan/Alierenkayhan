@@ -64,6 +64,7 @@
   </tr>
   <tr>
     <td><img align="center" src="images/logom.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alierenkayhan.github.io/">alierenkayhan.github.io</a></td>
+    <td><img align="center" src="images/logom.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ted.com/profiles/34139055">Ali Eren Kayhan</a></td>
   </tr>
 </table>
 <br>
