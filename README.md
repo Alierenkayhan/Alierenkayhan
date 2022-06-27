@@ -168,7 +168,7 @@
   
     
     
-![](https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&margin-w=-10)
+![](https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/><br/>
   
