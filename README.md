@@ -15,7 +15,7 @@
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
 <h4 align = "center" > You can download my CV by clicking 
  <!-- download cv button -->
-                <a href="files/Ali Eren Kayhan CV.pdf" class="art-link" download> this <i class="fas fa-download"></i></a>
+                <a href="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/files/Ali%20Eren%20Kayhan%20CV.pdf" class="art-link" download> this <i class="fas fa-download"></i></a>
                 
  </h4>
  
