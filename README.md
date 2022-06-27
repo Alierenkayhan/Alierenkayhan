@@ -13,7 +13,12 @@
 <p><img align="left" src="images/image/image.png" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
-
+<h4 align = "center" > You can download my CV by clicking 
+ <!-- download cv button -->
+                <a href="files/Ali Eren Kayhan CV.pdf" class="art-link" download> this <i class="fas fa-download"></i></a>
+                
+ </h4>
+ 
 <div align = "center">
        <img alt="GitHub followers" src="https://img.shields.io/github/followers/Alierenkayhan?style=social"> &nbsp;
        <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Alierenkayhan?style=social">
