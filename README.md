@@ -67,6 +67,9 @@
     <td><img align="center" src="images/media logo/ted-logo.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ted.com/profiles/34139055">Ali Eren Kayhan</a></td>
     <td><img align="center" src="images/media logo/unitylearn.png"  height="40" width="70" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://learn.unity.com/u/alierenkayhan?tab=profile">Ali Eren Kayhan</a></td>
   </tr>
+    <tr>
+    <td><img align="center" src="images/media logo/YouTube logo.png"  height="40" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCI8HFmI21vBN65Kc3x6L_4A">Ali Eren Kayhan</a></td>
+  </tr>
 </table>
 <br>
 
