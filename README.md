@@ -13,10 +13,9 @@
 <p><img align="left" src="images/image/image.png" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Ali Eren Kayhan </h1>
 <h3 align = "center" > Student, Game Developer, Desktop and Mobile Application Developer </h3>
-<h4 align = "center" > You can download my CV by clicking this
+<h4 align = "center" > You can download my CV by clicking 
  <!-- download cv button -->
- <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-<!-- END LATEST DOWNLOAD BUTTON -->
+<a href="https://downgit.github.io/#/home?url=https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/files/Ali%20Eren%20Kayhan%20CV.pdf">this </a>
  </h4>
  
 <div align = "center">
