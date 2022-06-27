@@ -49,7 +49,7 @@
 <h2 align="center">📫 Accounts You Can Reach Me 📫</h2>
 <summary>📫 Accounts You Can Reach Me</summary> 
 
-<p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="130" height = "130" style="border-radius: 5px 30px 10px 50px;margin-top:-20px;margin-right:-10px" /></p>
+<p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="130" height = "130" style="border-radius: 5px 30px 10px 50px;margin-top:-20px;" /></p>
 
 <table border= "0">
   <tr>
@@ -68,7 +68,7 @@
     <td><img align="center" src="images/media logo/unitylearn.png"  height="40" width="70" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://learn.unity.com/u/alierenkayhan?tab=profile">Ali Eren Kayhan</a></td>
   </tr>
     <tr>
-    <td><img align="center" src="images/media logo/YouTube logo.png"  height="40" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCI8HFmI21vBN65Kc3x6L_4A">Ali Eren Kayhan</a></td>
+    <td><img align="center" src="images/media logo/YouTube logo.png"  height="30" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCI8HFmI21vBN65Kc3x6L_4A">Ali Eren Kayhan</a></td>
   </tr>
 </table>
 <br>
