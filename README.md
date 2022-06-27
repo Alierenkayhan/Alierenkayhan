@@ -43,7 +43,8 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: ali_erenbatman@hotmail.com
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&row1&margin-w=-10&no-bg=true)
+![](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+
  <br>
 </details>
 
@@ -162,21 +163,16 @@
  <h2 align="center">:information_source: Github Information :information_source:</h2>
 <summary> :information_source:	Github Information</summary> <br>
  <p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&border=61dafb&hide_border=true" alt="Alierenkayhan" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+  <div align=center style="display:inline-flex;">
+  
+![](https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
+    
+    
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
+  <br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Alierenkayhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
  <br>
