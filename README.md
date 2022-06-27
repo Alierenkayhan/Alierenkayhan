@@ -216,10 +216,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
 </p> 
-
-<style>
-* {
-   cursor: url("https://github.com/Alierenkayhan/For-my-website/blob/main/itch%20io/image/cursor/cursor2.png?raw=true"), default;
-}
-
-</style>
