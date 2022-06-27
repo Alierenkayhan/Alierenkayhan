@@ -162,19 +162,18 @@
 <details>
  <h2 align="center">:information_source: Github Information :information_source:</h2>
 <summary> :information_source:	Github Information</summary> <br>
- <p align=center>
-  <div align=center style="display:inline-flex;">
+ <div align="center">
   
+  
+  
+    
+    
 ![](https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
-    
-    
-  </div>
-  <br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/><br/>
+  
   <img src="https://activity-graph.herokuapp.com/graph?username=Alierenkayhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</div>
  <br>
 </details>
 
