@@ -162,7 +162,7 @@
 <details>
  <h2 align="center">:information_source: Github Information :information_source:</h2>
 <summary> :information_source:	Github Information</summary> <br>
- <div align="center">
+ <div align="center" style="display: inline-flex;">
   
   
   
