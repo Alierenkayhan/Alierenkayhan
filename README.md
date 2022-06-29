@@ -89,7 +89,7 @@
   <h2 align="center">🧰 Languages and Tools 🧰</h2>
  <summary> 🧰 Languages and Tools</summary> 
    <br>
-<div style="text-align:center;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="C" alt="C" width="40" height="40"/>&nbsp;&nbsp; 
   <img src="images/languages and tools logo/csharp.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="images/languages and tools logo/c++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;  
