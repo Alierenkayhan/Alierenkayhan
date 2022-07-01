@@ -165,8 +165,8 @@
  <div align="center" style="display: inline-flex;">
   
   
-<img src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="left" width="485px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=true" align="left" width="485px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="left" width="475px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=true" align="left" width="475px"/>
  
 <br/>    <br/> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /> <br/>    
