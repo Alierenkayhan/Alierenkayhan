@@ -165,11 +165,10 @@
  <div align="center" style="display: inline-flex;">
   
   
-<img src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="left"/>
-    
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=true" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="left" width="485px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=true" align="left" width="485px"/>
  
-<br/>    
+<br/>    <br/> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /> <br/>    
   <img src="https://activity-graph.herokuapp.com/graph?username=Alierenkayhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
