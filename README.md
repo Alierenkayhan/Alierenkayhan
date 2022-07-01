@@ -50,11 +50,11 @@
 
 
 
-<!---------------------------------------------------------My Accounts----------------------------------------------------------------------------------------->  
+<!---------------------------------------------------------Accounts You Can Reach Me----------------------------------------------------------------------------------------->  
 
 <details>
-<h2 align="center">📫 My Accounts 📫</h2>
-<summary>📫 My Accounts </summary> 
+<h2 align="center">📫 Accounts You Can Reach Me 📫</h2>
+<summary>📫 Accounts You Can Reach Me</summary> 
 
 <p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="130" height = "130" style="border-radius: 5px 30px 10px 50px;margin-top:-20px;" /></p>
 
@@ -165,11 +165,13 @@
  <div align="center" style="display: inline-flex;">
   
   
-<img src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="left" width="475px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=true"  width="475px"/>
- 
-<br/>    <br/> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /> <br/>    
+  
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/>   
+![](https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false) <br/> <br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=true)<br/> 
+
+  
   <img src="https://activity-graph.herokuapp.com/graph?username=Alierenkayhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
  <br>
