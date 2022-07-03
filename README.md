@@ -229,7 +229,8 @@
  <h2 align="center">▶️ My Lastest Youtube Videos  ▶️ </h2>
 
 <br>
-<!-- YT_VIDEO_LIST:START --> 
+<!-- YT_VIDEO_LIST:START -->
+- [Mr Academic World Ali Eren Kayhan](https://www.youtube.com/watch?v=ypfQwqk5MHY)
 <!-- YT_VIDEO_LIST:END -->
 <br>
 </details>
