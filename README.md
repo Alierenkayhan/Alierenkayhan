@@ -217,7 +217,10 @@
 
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [How To Create An University Networking System In Cisco Packet Tracer](https://medium.com/@alierenkayhan/creating-university-network-system-in-cisco-packet-tracer-7bf3a5b8c296?source=rss-f029ad9d562f------2)
+- [Energy plan for German &lpar;STS 488 Final Assignment&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/energy-plan-for-german-sts-488-final.html)
+- [Reading 3: PMP || Introducing Project Risk Management Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-3-pmp-introducing-project-risk.html)
+- [Reading 2: PMP 6 Introducing Project Time Management Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-2-pmp-6-introducing-project.html)
+- [Reading 5: PMP Chapter 2  Basic Skills for Project Managers Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-5-pmp-summary-cet-431-hw.html)
 <!-- BLOG-POST-LIST:END -->
 <br>
 </details>
