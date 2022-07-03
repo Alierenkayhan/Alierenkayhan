@@ -209,7 +209,7 @@
   <br>
 </details>
 
-<!---------------------------------------------------------Github Repositories----------------------------------------------------------------------------------------->  
+<!---------------------------------------------------------My Lastest Blog ----------------------------------------------------------------------------------------->  
 
 <details>
 <summary> 📚 My Lastest Blog   </summary> <br>
@@ -221,7 +221,29 @@
 <br>
 </details>
 
+<!---------------------------------------------------------My Lastest Videos ----------------------------------------------------------------------------------------->  
 
+<details>
+<summary> ▶️ My Lastest Blog   </summary> <br>
+ <h2 align="center">▶️ My Lastest Blog ▶️ </h2>
+
+<br>
+<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:END -->
+<br>
+</details>
+
+<!---------------------------------------------------------My Lastest Game ----------------------------------------------------------------------------------------->  
+
+<details>
+<summary> 🎮 My Lastest Game   </summary> <br>
+ <h2 align="center">🎮 My Lastest Game  🎮 </h2>
+
+<br>
+<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:END -->
+<br>
+</details>
 <!---------------------------------------------------------footer----------------------------------------------------------------------------------------->   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
