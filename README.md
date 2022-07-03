@@ -216,7 +216,8 @@
  <h2 align="center">📚 My Lastest Blog 📚 </h2>
 
 <br>
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
+- [How To Create An University Networking System In Cisco Packet Tracer](https://medium.com/@alierenkayhan/creating-university-network-system-in-cisco-packet-tracer-7bf3a5b8c296?source=rss-f029ad9d562f------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 </details>
