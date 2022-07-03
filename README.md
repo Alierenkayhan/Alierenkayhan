@@ -216,6 +216,7 @@
  <h2 align="center">📚 My Lastest Blog 📚 </h2>
 
 <br>
+
 <!-- BLOG-POST-LIST:START -->
 - [Energy plan for German &lpar;STS 488 Final Assignment&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/energy-plan-for-german-sts-488-final.html)
 - [Reading 3: PMP || Introducing Project Risk Management Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-3-pmp-introducing-project-risk.html)
@@ -223,6 +224,7 @@
 - [Reading 5: PMP Chapter 2  Basic Skills for Project Managers Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-5-pmp-summary-cet-431-hw.html)
 - [Reading 4: PMP World Today Human Resource Management in a Project By Sujit Mishra Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-4-pmp-summary-cet-431-hw.html)
 <!-- BLOG-POST-LIST:END -->
+
 <br>
 </details>
 
@@ -233,10 +235,13 @@
  <h2 align="center">▶️ My Lastest Youtube Videos  ▶️ </h2>
 
 <br>
+
 <!-- YT_VIDEO_LIST:START -->
 - [Mr Academic World Ali Eren Kayhan](https://www.youtube.com/watch?v=ypfQwqk5MHY)
 <!-- YT_VIDEO_LIST:END -->
+
 <br>
+
 </details>
 
 <!---------------------------------------------------------My Lastest Game ----------------------------------------------------------------------------------------->  
@@ -247,7 +252,6 @@
 
 <br>
 
-&lt;a href="https://alierenkayhan.itch.io/atlye"&gt;Atölye by Ali Eren Kayhan&lt;/a&gt;
 
 <br>
 </details>
