@@ -14,4 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
+          template: "default"
           feed_list: "https://alierenkayhanbouncet.blogspot.com/feeds/posts/default"        
