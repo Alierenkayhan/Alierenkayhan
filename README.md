@@ -244,6 +244,18 @@
 <!-- BLOG-POST-LIST:END -->
 <br>
 </details>
+
+<!---------------------------------------------------------Contact ----------------------------------------------------------------------------------------->  
+
+<details>
+<summary> ✉ Contact  </summary> <br>
+ <h2 align="center">✉ Contact  ✉</h2>
+
+<br>
+<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:END -->
+<br>
+</details>
 <!---------------------------------------------------------footer----------------------------------------------------------------------------------------->   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
