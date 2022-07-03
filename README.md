@@ -217,11 +217,10 @@
 
 <br>
 <!-- BLOG-POST-LIST:START -->
-- [Energy plan for German &lpar;STS 488 Final Assignment&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/energy-plan-for-german-sts-488-final.html) <br>
-- [Reading 3: PMP || Introducing Project Risk Management Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-3-pmp-introducing-project-risk.html) <br>
-- [Reading 2: PMP 6 Introducing Project Time Management Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-2-pmp-6-introducing-project.html) <br>
-- [Reading 5: PMP Chapter 2  Basic Skills for Project Managers Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-5-pmp-summary-cet-431-hw.html) <br>
-- [Reading 4: PMP World Today Human Resource Management in a Project By Sujit Mishra Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-4-pmp-summary-cet-431-hw.html) <br>
+- [Energy plan for German &lpar;STS 488 Final Assignment&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/energy-plan-for-german-sts-488-final.html)
+- [Reading 3: PMP || Introducing Project Risk Management Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-3-pmp-introducing-project-risk.html)
+- [Reading 2: PMP 6 Introducing Project Time Management Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-2-pmp-6-introducing-project.html)
+- [Reading 5: PMP Chapter 2  Basic Skills for Project Managers Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-5-pmp-summary-cet-431-hw.html)
 <!-- BLOG-POST-LIST:END -->
 <br>
 </details>
