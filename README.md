@@ -35,7 +35,7 @@
 <p><img align="right" src="images/gif/gif2.gif" alt="Alierenkayhan" width ="230" height = "320" /></p>
  
 - 🇹🇷  I live in Istanbul, Turkey.
-- 🚀 I am co-founder of Mr Academic World.
+- 🚀 I am founder of Mr Academic World.
 - 🗣️ I can speak English, Turkish, and German.
 - 📚 I'm studying Computer Education and Educational Technology (CET) at Boğaziçi University.
 - 🔭 I’m not currently working.   
