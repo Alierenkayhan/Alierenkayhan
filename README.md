@@ -228,11 +228,26 @@
 <br>
 </details>
 
+<!---------------------------------------------------------My Lastest TED translate videos ----------------------------------------------------------------------------------------->  
+
+<details>
+<summary> 🌐▶️ My Lastest TED videos that I translate </summary> <br>
+ <h2 align="center">🌐▶️ My Lastest TED videos that I translate 🌐▶️ </h2>
+
+<br>
+
+<!-- TED_VIDEO_LIST:START -->
+
+<!-- TED_VIDEO_LIST:END -->
+
+<br>
+
+
 <!---------------------------------------------------------My Lastest Videos ----------------------------------------------------------------------------------------->  
 
 <details>
 <summary> ▶️ My Lastest Youtube Videos   </summary> <br>
- <h2 align="center">▶️ My Lastest Youtube Videos  ▶️ </h2>
+ <h2 align="center">▶️ My Lastest Youtube Videos ▶️ </h2>
 
 <br>
 
