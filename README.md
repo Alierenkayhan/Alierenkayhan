@@ -237,7 +237,7 @@
 <br>
 
 <!-- TED_VIDEO_LIST:START -->
-
+- [Colorism  | Piya Sarkar | TEDxYouth@CanadianAcademy](https://www.youtube.com/watch?v=6gTOsynWKEs)
 <!-- TED_VIDEO_LIST:END -->
 
 <br>
