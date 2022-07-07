@@ -252,7 +252,7 @@
 <br>
 
 <!-- YT_VIDEO_LIST:START -->
-- [Mr Academic World Ali Eren Kayhan](https://www.youtube.com/watch?v=ypfQwqk5MHY)
+- [Mr Academic World Ali Eren Kayhan | Official Trailer](https://www.youtube.com/watch?v=ypfQwqk5MHY)
 <!-- YT_VIDEO_LIST:END -->
 
 <br>
