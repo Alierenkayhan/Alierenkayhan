@@ -76,6 +76,8 @@
   </tr>
     <tr>
     <td><img align="center" src="images/media logo/YouTube logo.png"  height="30" width="70" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCI8HFmI21vBN65Kc3x6L_4A">Ali Eren Kayhan</a></td>
+      <td><img align="center" src="images/media logo/hackerranklogo.png"  height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/alieren?hr_r=1">Ali Eren Kayhan</a></td>
+        <td><img align="center" src="images/media logo/patikadev.png"  height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://app.patika.dev/alierenkayhan">Ali Eren Kayhan</a></td>
   </tr>
 </table>
 <br>
