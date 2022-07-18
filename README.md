@@ -43,7 +43,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: ali_erenbatman@hotmail.com
 
-![](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-10&row1)
+![](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-11&row1)
 
  <br>
 </details>
@@ -56,7 +56,7 @@
 <h2 align="center">📫 My Accounts 📫</h2>
 <summary>📫 My Accounts </summary> 
 
-<p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="130" height = "130" style="border-radius: 5px 30px 10px 50px;margin-top:-20px;" /></p>
+<p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="120" height = "120" style="border-radius: 5px 30px 10px 50px;margin-top:-20px;" /></p>
 
 <table border= "0">
   <tr>
