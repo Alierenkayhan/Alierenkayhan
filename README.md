@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td><img align="center" src="images/media logo/Itch.io_logo.png"  height="40" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alierenkayhan.itch.io/">Alierenkayhan</a></td>
-    <td><img align="center" src="images/media logo/outlook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;ali_erenbatman@hotmail.com</td>
+    <td><img align="center" src="images/media logo/outlook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ali_erenbatman@hotmail.com">ali_erenbatman@hotmail.com</a></td>
      <td><img align="center" src="images/media logo/blogger-logo.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alierenkayhanbouncet.blogspot.com/">alierenkayhanbouncet</a></td>
   </tr>
   <tr>
