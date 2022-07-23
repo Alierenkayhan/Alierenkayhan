@@ -79,6 +79,9 @@
       <td><img align="center" src="images/media logo/hackerranklogo.png"  height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/alieren?hr_r=1">Ali Eren Kayhan</a></td>
         <td><img align="center" src="images/media logo/patikadev.png"  height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://app.patika.dev/alierenkayhan">Ali Eren Kayhan</a></td>
   </tr>
+   <tr>
+    <td><img align="center" src="images/media logo/Medium logo.png"  height="30" width="70" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@alierenkayhan">@alierenkayhan</a></td>
+  </tr>
 </table>
 <br>
 
