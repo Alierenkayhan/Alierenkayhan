@@ -257,6 +257,7 @@
 <br>
 
 <!-- YT_VIDEO_LIST:START -->
+- [How to make a game with scratch](https://www.youtube.com/watch?v=p2tdAo80aUw)
 - [Mr Academic World Ali Eren Kayhan | Official Trailer](https://www.youtube.com/watch?v=ypfQwqk5MHY)
 <!-- YT_VIDEO_LIST:END -->
 
