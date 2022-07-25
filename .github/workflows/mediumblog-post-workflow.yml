@@ -14,4 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@1.7.2
         with:
+          comment_tag_name: "MEDIUM_BLOG_LIST"
           feed_list: "https://medium.com/feed/@alierenkayhan"
