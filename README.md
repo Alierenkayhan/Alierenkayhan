@@ -221,7 +221,9 @@
  <h2 align="center">📚 My Lastest Blog 📚 </h2>
 
 <br>
-
+ <h3 align="center">My Lastest Blog From Blogger</h3>
+<br>
+ 
 <!-- BLOG-POST-LIST:START -->
 - [Energy plan for German &lpar;STS 488 Final Assignment&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/energy-plan-for-german-sts-488-final.html)
 - [Reading 3: PMP || Introducing Project Risk Management Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-3-pmp-introducing-project-risk.html)
@@ -230,6 +232,12 @@
 - [Reading 4: PMP World Today Human Resource Management in a Project By Sujit Mishra Summary &lpar;CET 431 HW&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/reading-4-pmp-summary-cet-431-hw.html)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+ <h3 align="center">My Lastest Blog From Medium</h3>
+<br>
+ 
+<!-- MEDIUM_BLOG_LIST:START -->
+<!-- MEDIUM_BLOG_LIST:END -->
 <br>
 </details>
 
