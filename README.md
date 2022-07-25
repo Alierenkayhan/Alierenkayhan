@@ -221,7 +221,7 @@
  <h2 align="center">📚 My Lastest Blog 📚 </h2>
 
 <br>
- <h3 align="center">My Lastest Blog From Blogger</h3>
+ <h3>My Lastest Blog From Blogger</h3>
 <br>
  
 <!-- BLOG-POST-LIST:START -->
@@ -233,7 +233,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
- <h3 align="center">My Lastest Blog From Medium</h3>
+ <h3>My Lastest Blog From Medium</h3>
 <br>
  
 <!-- MEDIUM_BLOG_LIST:START -->
