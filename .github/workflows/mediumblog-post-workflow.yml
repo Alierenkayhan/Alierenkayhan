@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest medium blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -6,7 +6,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with medium latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
