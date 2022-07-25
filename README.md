@@ -233,6 +233,7 @@
  <h3>My Lastest Blog From Medium</h3>
  
 <!-- MEDIUM_BLOG_LIST:START -->
+- [How To Create An University Networking System In Cisco Packet Tracer](https://medium.com/@alierenkayhan/creating-university-network-system-in-cisco-packet-tracer-7bf3a5b8c296?source=rss-f029ad9d562f------2)
 <!-- MEDIUM_BLOG_LIST:END -->
 <br>
 </details>
