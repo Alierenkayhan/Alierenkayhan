@@ -249,6 +249,7 @@
 <!-- TED_VIDEO_LIST:START -->
 - [The true cost of gold -  Lyla Latif](https://www.youtube.com/watch?v=1nglN3mfZUw)
 - [The 4 greatest threats to the survival of humanity](https://www.youtube.com/watch?v=WP6T4MH0Dn4)
+- [Metaverse and Web3 of the People, by the People, for the People | Andrew Kwan | TEDxChaterRoad](https://www.youtube.com/watch?v=9digvdKz4_Y)
 - [Colorism  | Piya Sarkar | TEDxYouth@CanadianAcademy](https://www.youtube.com/watch?v=6gTOsynWKEs)
 - [Cities Have Solutions To The Global Climate Crisis. Here&#39;s Why. | Sadiq Khan | TEDxMayorOfLondon](https://www.youtube.com/watch?v=RjRN_56cUsE)
 <!-- TED_VIDEO_LIST:END -->
