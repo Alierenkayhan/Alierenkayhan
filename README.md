@@ -56,7 +56,7 @@
 <h2 align="center">📫 My Accounts 📫</h2>
 <summary>📫 My Accounts </summary> 
 
-<p><img align="center" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="110" height = "110" style="border-radius: 5px 30px 10px 50px;" /></p>
+<p align="center"><img src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="110" height = "110" style="border-radius: 5px 30px 10px 50px;" /></p>
 
 <table border= "0" align="center" >
   <tr>
