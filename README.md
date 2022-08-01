@@ -81,6 +81,8 @@
   </tr>
    <tr>
     <td><img align="center" src="images/media logo/Medium logo.png"  height="30" width="90" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@alierenkayhan">@alierenkayhan</a></td>
+     <td><img align="center" src="images/media logo/Stack_Overflow-Logo.png"  height="30" width="90" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19665250/ali-eren-kayhan">Ali Eren Kayhan</a></td>
+     <td><img align="center" src="images/media logo/discord.jpg"  height="30" width="90" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19665250/ali-eren-kayhan">ali eren kayhan #6268</a></td>
   </tr>
 </table>
 <br>
