@@ -56,9 +56,9 @@
 <h2 align="center">📫 My Accounts 📫</h2>
 <summary>📫 My Accounts </summary> 
 
-<p><img align="right" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="110" height = "110" style="border-radius: 5px 30px 10px 50px;margin-top:20px;" /></p>
+<p><img align="center" src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="110" height = "110" style="border-radius: 5px 30px 10px 50px;margin-top:20px;" /></p>
 
-<table border= "0">
+<table border= "0" align="center" >
   <tr>
     <td><img align="center" src="images/media logo/linkedin.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ali-eren-kayhan/">Ali Eren Kayhan</a></td>
     <td><img align="center" src="images/media logo/instagram.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/kayhanalieren/">kayhanalieren</a></td>
