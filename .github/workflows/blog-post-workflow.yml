@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: "https://alierenkayhanbouncet.blogspot.com/feeds/posts/default"
           comment_tag_name: "BLOGGER"
-          template: "<tr><td>$title</td><td>$date</td><td>$image</td><td>$url</td></tr>"
+          template: "<tr><td>$title</td><td>$date</td><td>$url</td></tr>"
