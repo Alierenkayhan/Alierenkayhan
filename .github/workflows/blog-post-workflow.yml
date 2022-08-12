@@ -1,24 +1,19 @@
-name: "📚 latest Blog"
-
+name: Latest blog post workflow
 on:
-  workflow_dispatch:
-  schedule:
+  schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
-  update_blogs:
-    name: "Update With Latest Blogs"
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Blogger Updater"
-        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@1.7.2
         with:
-          USERNAME: "Alierenkayhan" 
-          COUNT: 4 # MAX Visisble
-          STYLE: "blog-left"
-          BLOG_URL: "https://alierenkayhanbouncet.blogspot.com/feeds/posts/default"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          feed_list: "https://alierenkayhanbouncet.blogspot.com/feeds/posts/default"
+          comment_tag_name: "BLOGGER"
+          template: "<tr><td>$title</td><td>$date</td><td>$image</td><td>$url</td></tr>"
