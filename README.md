@@ -58,33 +58,27 @@
 
 <p align="center"><img src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="110" height = "110" style="border-radius: 5px 30px 10px 50px;" /></p>
 
-<table border= "0" align="center" >
-  <tr>
-    <td><img align="center" src="images/media logo/linkedin.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/alierenkayhan/">Ali Eren Kayhan</a></td>
-    <td><img align="center" src="images/media logo/instagram.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/kayhanalieren/">kayhanalieren</a></td>
-    <td><img align="center" src="images/media logo/facebook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/alieren.kayhan.5/">Ali Eren Kayhan</a></td>
-  </tr>
-  <tr>
-    <td><img align="center" src="images/media logo/Itch.io_logo.png"  height="40" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alierenkayhan.itch.io/">Alierenkayhan</a></td>
-    <td><img align="center" src="images/media logo/outlook.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ali_erenbatman@hotmail.com">ali_erenbatman@hotmail.com</a></td>
-     <td><img align="center" src="images/media logo/blogger-logo.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alierenkayhanbouncet.blogspot.com/">alierenkayhanbouncet</a></td>
-  </tr>
-  <tr>
-    <td><img align="center" src="images/logom.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://alierenkayhan.github.io/">alierenkayhan.github.io</a></td>
-    <td><img align="center" src="images/media logo/ted-logo.png"  height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ted.com/profiles/34139055">Ali Eren Kayhan</a></td>
-    <td><img align="center" src="images/media logo/unitylearn.png"  height="40" width="70" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://learn.unity.com/u/alierenkayhan?tab=profile">Ali Eren Kayhan</a></td>
-  </tr>
-    <tr>
-    <td><img align="center" src="images/media logo/YouTube logo.png"  height="30" width="70" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCI8HFmI21vBN65Kc3x6L_4A">Ali Eren Kayhan</a></td>
-      <td><img align="center" src="images/media logo/hackerranklogo.png"  height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/alieren?hr_r=1">Ali Eren Kayhan</a></td>
-        <td><img align="center" src="images/media logo/patikadev.png"  height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://app.patika.dev/alierenkayhan">Ali Eren Kayhan</a></td>
-  </tr>
-   <tr>
-    <td><img align="center" src="images/media logo/Medium logo.png"  height="30" width="90" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@alierenkayhan">@alierenkayhan</a></td>
-     <td><img align="center" src="images/media logo/Stack_Overflow-Logo.png"  height="30" width="90" />&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/19665250/ali-eren-kayhan">Ali Eren Kayhan</a></td>
-     <td><img align="center" src="images/media logo/discord.jpg"  height="30" width="90" />&nbsp;&nbsp;&nbsp;&nbsp;ali eren kayhan #6268</a></td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://alierenkayhan.github.io/"><img src="https://img.shields.io/badge/-PersonalWebsite-444bff?style=for-the-badge&logo" height="40"  /></a>&nbsp;
+ 
+<a href="mailto:ali_erenbatman@hotmail.com?subject=From My Github page"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="40"/></a>&nbsp;
+<img src="https://img.shields.io/badge/ali eren kayhan-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="40" />&nbsp;
+<a href="https://www.linkedin.com/in/alierenkayhan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>&nbsp;
+
+<a href="https://alierenkayhanbouncet.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="40" /></a>&nbsp;
+<a href="https://medium.com/@alierenkayhan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40" /></a>&nbsp;
+<a href="https://www.ted.com/profiles/34139055"><img src="https://img.shields.io/badge/TED-E62B1E?style=for-the-badge&logo=TED" height="40" /></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCI8HFmI21vBN65Kc3x6L_4A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="40" /></a>&nbsp;
+
+<a href="https://alierenkayhan.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" height="40" /></a>&nbsp;
+<a href="https://learn.unity.com/u/alierenkayhan?tab=profile"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="40" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/19665250/ali-eren-kayhan"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" /></a>&nbsp;
+
+<a href="https://www.hackerrank.com/alieren?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" /></a>&nbsp;
+<a href="https://app.patika.dev/alierenkayhan"><img src="https://img.shields.io/badge/-PatikaDev-444bff?style=for-the-badge&logo" height="40"  /></a>&nbsp;
+
+</div>
 <br>
 
 </details>
@@ -123,6 +117,7 @@
   <img  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
   <img  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img  src="https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white" />
 
   📚 Frameworks & Library: &nbsp; 
   <img  src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
