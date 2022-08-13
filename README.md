@@ -78,6 +78,8 @@
 <a href="https://www.hackerrank.com/alieren?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" /></a>&nbsp;
 <a href="https://app.patika.dev/alierenkayhan"><img src="https://img.shields.io/badge/-PatikaDev-444bff?style=for-the-badge&logo" height="40"  /></a>&nbsp;
 
+<a href="https://twitter.com/AliErenKayhan3"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="40"  /></a>&nbsp;
+
 </div>
 <br>
 
