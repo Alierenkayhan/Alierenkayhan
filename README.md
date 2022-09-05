@@ -256,9 +256,9 @@
 <!-- TED_VIDEO_LIST:START -->
 - [The true cost of gold -  Lyla Latif](https://www.youtube.com/watch?v=1nglN3mfZUw)
 - [The 4 greatest threats to the survival of humanity](https://www.youtube.com/watch?v=WP6T4MH0Dn4)
-- [How does alcohol cause hangovers? - Judy Grisel](https://www.youtube.com/watch?v=FZc-Y9gqjHI)
 - [Why can parrots talk? - Grace Smith-Vidaurre and Tim Wright](https://www.youtube.com/watch?v=1EYUhpimyxc)
 - [Can you outsmart the college admissions fallacy? - Elizabeth Cox](https://www.youtube.com/watch?v=Id3TCbpWR2M)
+- [How the Suez Canal changed the world - Lucia Carminati](https://www.youtube.com/watch?v=i9p-a8YJO-o)
 <!-- TED_VIDEO_LIST:END -->
 
 <br>
