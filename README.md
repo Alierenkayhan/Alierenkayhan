@@ -282,7 +282,7 @@
 
 </details>
 
-<!---------------------------------------------------------My Lastest Game ----------------------------------------------------------------------------------------->  
+<!---------------------------------------------------------My Lastest Game & Simulations ----------------------------------------------------------------------------------------->  
 
 <details>
 <summary> 🎮 My Lastest Game   </summary> <br>
@@ -291,7 +291,7 @@
 <br>
  
 <a href="https://alierenkayhan.itch.io/the-virus"><img src="https://img.itch.zone/aW1nLzgxMjI3MTAucG5n/315x250%23c/K8SF1c.png" width="208" height="167" title="The Virus"/></a> <a href="https://alierenkayhan.itch.io/wer-ist-der-mrder"><img src="https://img.itch.zone/aW1nLzg2ODQ0NTguanBlZw==/315x250%23c/TtQgqA.jpeg" width="208" height="167" title="Wer Ist Der Mörder?"/></a>
-<a href="https://alierenkayhan.itch.io/atlye"><img src="https://img.itch.zone/aW1nLzg4MjEwMDMuanBn/original/3dKHOr.jpg" width="208" height="167" title="Atölye"/></a>
+<a href="https://alierenkayhan.itch.io/boun-edutech-simulation"><img src="https://github.com/Alierenkayhan/Alierenkayhan/blob/main/images/image/edutech.jpg?raw=true" width="208" height="167" title="Boun EduTech simulation"/></a>
 
   
 <br>
