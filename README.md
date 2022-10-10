@@ -241,6 +241,7 @@
  <h3>My Lastest Blog From Medium</h3>
  
 <!-- MEDIUM_BLOG_LIST:START -->
+- [How to Build an Awesome Github Profile](https://medium.com/nottutuyoruz/how-to-build-an-awesome-github-profile-f9359c4310dd?source=rss-f029ad9d562f------2)
 - [Neden Bilgisayar Eğitimi ve Eğitim Teknolojileri bölümünde okumalısınız?](https://medium.com/nottutuyoruz/neden-bilgisayar-egitimi-ve-egitim-teknolojileri-bolumunde-okumalisiniz-1ee1c3ce0bf7?source=rss-f029ad9d562f------2)
 - [How To Create An University Networking System In Cisco Packet Tracer](https://medium.com/@alierenkayhan/creating-university-network-system-in-cisco-packet-tracer-7bf3a5b8c296?source=rss-f029ad9d562f------2)
 <!-- MEDIUM_BLOG_LIST:END -->
