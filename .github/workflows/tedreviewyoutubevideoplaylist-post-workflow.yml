@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "TED_REVIEW_VIDEO_LIST"
-          feed_list: "https://www.youtube.com/watch?v=0E0YIE9PB14&list=PLYAjNPRkjhWrMmNb_Myl5fglXXH-S4A_e"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLYAjNPRkjhWrMmNb_Myl5fglXXH-S4A_e"
