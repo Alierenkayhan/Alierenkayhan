@@ -267,8 +267,9 @@
 
  <h3>My Lastest TED videos that I review </h3>
  
- <!-- TED_REVIEW_VIDEO_LIST:START -->
- <!-- TED_REVIEW_VIDEO_LIST:END -->
+<!-- TED_REVIEW_VIDEO_LIST:START -->
+
+<!-- TED_REVIEW_VIDEO_LIST:END -->
  
 <br>
 </details>
