@@ -248,14 +248,15 @@
 <br>
 </details>
 
-<!---------------------------------------------------------My Lastest TED translate videos ----------------------------------------------------------------------------------------->  
+<!---------------------------------------------------------My Lastest TED translated & reviewed videos ----------------------------------------------------------------------------------------->  
 
 <details>
-<summary> 🌐▶️ My Lastest TED videos that I translate </summary> <br>
- <h2 align="center">🌐▶️ My Lastest TED videos that I translate 🌐▶️ </h2>
+<summary> 🌐▶️ My Lastest TED videos that I translate and review </summary> <br>
+ <h2 align="center">🌐▶️ My Lastest TED videos that I translate and review 🌐▶️ </h2>
 
 <br>
-
+ <h3>My Lastest TED videos that I translate</h3>
+ 
 <!-- TED_VIDEO_LIST:START -->
 - [What is a gig economy?](https://www.youtube.com/watch?v=OXT8xdqcAoU)
 - [Coneheads, egg stacks and anteater attacks: The reign of a termite queen - Barbara L. Thorne](https://www.youtube.com/watch?v=JGnXq8l-rwo)
@@ -264,6 +265,11 @@
 - [The 4 greatest threats to the survival of humanity](https://www.youtube.com/watch?v=WP6T4MH0Dn4)
 <!-- TED_VIDEO_LIST:END -->
 
+ <h3>My Lastest TED videos that I review </h3>
+ 
+ <!-- TED_REVIEW_VIDEO_LIST:START -->
+ <!-- TED_REVIEW_VIDEO_LIST:END -->
+ 
 <br>
 </details>
 
