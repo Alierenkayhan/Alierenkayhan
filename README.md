@@ -269,6 +269,7 @@
  <h3>My Lastest TED videos that I review </h3>
  
 <!-- TED_REVIEW_VIDEO_LIST:START -->
+- [Navigating Fear in a New Era of Uncertainty | Holly Jean Jackson | TEDxApex](https://www.youtube.com/watch?v=TqI4XOsMSdg)
 - [A child&#39;s Ukraine | Liza Tarasova | TEDxEatonSquarePrep](https://www.youtube.com/watch?v=0E0YIE9PB14)
 <!-- TED_REVIEW_VIDEO_LIST:END -->
  
