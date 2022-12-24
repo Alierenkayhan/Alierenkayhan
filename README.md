@@ -35,11 +35,11 @@
 <p><img align="right" src="images/gif/gif2.gif" alt="Alierenkayhan" width ="230" height = "320" /></p>
  
 - 🇹🇷  I live in Istanbul, Turkey.
-- 🚀 I am founder of Mr Academic World.
+- 🚀 I am an Entrepreneur .
 - 🗣️ I can speak English, Turkish, and German.
 - 📚 I'm studying Computer Education and Educational Technology (CET) at Boğaziçi University.
 - 🔭 I’m not currently working.   
-- 🌱 I’m currently learning Game Industry.
+- 🌱 I’m currently learning Game Industry and Cyber Security.
 - 💬 Ask me about anything.
 - 📫 How to reach me: ali_erenbatman@hotmail.com
 
@@ -80,7 +80,7 @@
 
 <a href="https://twitter.com/AliErenKayhan3"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="40"  /></a>&nbsp;
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/orientationpaint.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1322949"></script>
 
 </div>
 <br>
@@ -129,7 +129,8 @@
   <img  src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
   
   🎮 Game Engine: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  2D-3D game & AR = <img  src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  VR = <img  src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
   
   🕓 Version Control: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -163,6 +164,9 @@
   
   💻 OS: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  
+  🖨 3D printer: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  Prusa
 
  </div>
 <br>
@@ -181,8 +185,9 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alierenkayhan&theme=react&hide_border=true" align="center" width="47%"/> 
   <br> <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-   <br> <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Alierenkayhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+   <br><br>
+ <img src="https://activity-graph.herokuapp.com/graph?username=Alierenkayhan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+   
 </div>
  <br>
 </details>
@@ -208,8 +213,8 @@
   
 <br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Alierenkayhan/mypatikadevrepoCsharp101" title="mypatikadevrepoCsharp101">
-    <img align="left"  height="112" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=mypatikadevrepoCsharp101&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Alierenkayhan/Blender_BremenUni_HW" title="Blender_BremenUni_HW">
+    <img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Blender_BremenUni_HW&theme=react&border_color=61dafb&border_radius=10"></a>
  
   <a align="right" href="https://github.com/Alierenkayhan/Unity-my-works" title="Unity-my-works">
     <img align="right"  height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alierenkayhan&repo=Unity-my-works&theme=react&border_color=61dafb&border_radius=10"></a>
