@@ -35,7 +35,7 @@
 <p><img align="right" src="images/gif/gif2.gif" alt="Alierenkayhan" width ="230" height = "320" /></p>
  
 - 🇹🇷  I live in Istanbul, Turkey.
-- 🚀 I am an Entrepreneur .
+- 🚀 I am an Entrepreneur.
 - 🗣️ I can speak English, Turkish, and German.
 - 📚 I'm studying Computer Education and Educational Technology (CET) at Boğaziçi University.
 - 🔭 I’m not currently working.   
@@ -80,7 +80,7 @@
 
 <a href="https://twitter.com/AliErenKayhan3"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="40"  /></a>&nbsp;
 
-<script src="https://tryhackme.com/badge/1322949"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/orientationpaint.png" alt="TryHackMe">
 
 </div>
 <br>
