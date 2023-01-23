@@ -278,6 +278,7 @@
 - [Navigating Fear in a New Era of Uncertainty | Holly Jean Jackson | TEDxApex](https://www.youtube.com/watch?v=TqI4XOsMSdg)
 - [A child&#39;s Ukraine | Liza Tarasova | TEDxEatonSquarePrep](https://www.youtube.com/watch?v=0E0YIE9PB14)
 - [Starting small | Skate Lapus | TEDxYouth@Chatham](https://www.youtube.com/watch?v=iVdDVzlqmBE)
+- [Poetic Stickup: Put the Financial Aid in the Bag](https://www.youtube.com/watch?v=iMGRpzf2RL8)
 <!-- TED_REVIEW_VIDEO_LIST:END -->
  
 <br>
