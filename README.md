@@ -79,9 +79,11 @@
 <a href="https://app.patika.dev/alierenkayhan"><img src="https://img.shields.io/badge/-PatikaDev-444bff?style=for-the-badge&logo" height="40"  /></a>&nbsp;
 
 <a href="https://twitter.com/AliErenKayhan3"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="40"  /></a>&nbsp;
+<a href="https://play.google.com/store/apps/developer?id=Ali+Eren+Kayhan"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="40"  /></a>&nbsp;
 
+  
 <img src="https://tryhackme-badges.s3.amazonaws.com/orientationpaint.png" alt="TryHackMe">
-
+  
 </div>
 <br>
 
