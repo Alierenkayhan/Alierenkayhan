@@ -12,7 +12,7 @@
 
 <p><img align="left" src="images/image/image.png" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Ali Eren Kayhan </h1>
-<h3 align = "center" > 💻 Game Developer & Designer | 🚀Entrepreneur | 💬 TED Translator & Reviewer | ✍️ Blogger & Editor  | 💻 Boun EduTech President |🌱 Senior Student  </h3>
+<h3 align = "center" > 💻 Junior Software developer | Full Stack Developer | Dotnet, React, Django, C#, Python |🌱 Senior Student @ CET BOUN </h3>
 <h4 align = "center" >
  <!-- download cv button -->
 <a href="https://github.com/Alierenkayhan/Alierenkayhan.github.io/raw/master/files/Ali%20Eren%20Kayhan%20CV.pdf">
@@ -39,9 +39,9 @@
 - 🗣️ I can speak English, Turkish, and German.
 - 📚 I'm studying Computer Education and Educational Technology (CET) at Boğaziçi University.
 - 🔭 I’m not currently working.   
-- 🌱 I’m currently learning Game Industry and Cyber Security.
+- 🌱 I’m currently learning Web Development and Cyber Security.
 - 💬 Ask me about anything.
-- 📫 How to reach me: ali_erenbatman@hotmail.com
+- 📫 How to reach me: a.erenkayhan@gmail.com
 
 ![](https://github-profile-trophy.vercel.app/?username=Alierenkayhan&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=-13&row1)
 
@@ -96,18 +96,13 @@
   <h2 align="center">🧰 Languages and Tools 🧰</h2>
  <summary> 🧰 Languages and Tools</summary> 
    <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" title="C" alt="C" width="40" height="40"/>&nbsp;&nbsp; 
+<div align="center"> 
   <img src="images/languages and tools logo/csharp.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/c++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="images/languages and tools logo/html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="images/languages and tools logo/css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp; 
   <img src="images/languages and tools logo/bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/ionic.png" title="IONIC" alt="IONIC" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="images/languages and tools logo/figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="images/languages and tools logo/mssql.png" title="Mssql" alt="Mssql" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/adobe premiere pro.png" title="Adobe premiere pro" alt="Adobe premiere pro" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="images/languages and tools logo/unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="images/languages and tools logo/asp.net mvc core.jfif" title="AspddotnetMVC" alt="Asp.net mvc core" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="images/languages and tools logo/Git-Logo.jpg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp; 
@@ -147,23 +142,9 @@
    
   📋 Languages: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   
-  📱 Mobile Frameworks: &nbsp;
-  <img  src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-    
-  🏢 Office: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-  <br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" />
-  
+
   💻 OS: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   
