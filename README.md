@@ -229,6 +229,7 @@
  <h3>My Lastest Blog From Medium</h3>
  
 <!-- MEDIUM_BLOG_LIST:START -->
+- [Are you ready for a journey to Virtual Reality?](https://medium.com/nottutuyoruz/are-you-ready-for-a-journey-to-virtual-reality-de5e93746729?source=rss-f029ad9d562f------2)
 - [How to Become a TED Talks Translator](https://medium.com/nottutuyoruz/how-to-become-a-ted-talks-translator-2146f767059?source=rss-f029ad9d562f------2)
 - [How to Build an Awesome Github Profile](https://medium.com/nottutuyoruz/how-to-build-an-awesome-github-profile-f9359c4310dd?source=rss-f029ad9d562f------2)
 - [Neden Bilgisayar Eğitimi ve Eğitim Teknolojileri bölümünde okumalısınız?](https://medium.com/nottutuyoruz/neden-bilgisayar-egitimi-ve-egitim-teknolojileri-bolumunde-okumalisiniz-1ee1c3ce0bf7?source=rss-f029ad9d562f------2)
