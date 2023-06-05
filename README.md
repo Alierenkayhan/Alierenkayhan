@@ -12,7 +12,7 @@
 
 <p><img align="left" src="images/image/image.png" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Ali Eren Kayhan </h1>
-<h3 align = "center" > 💻 Junior Software developer | Full Stack Developer | Dotnet, React, Django, C#, Python |🌱 Senior Student @ CET BOUN </h3>
+<h3 align = "center" > 💻 Junior Software developer | Full Stack Developer | Dotnet, React, C#, Python |🌱 Senior Student @ CET BOUN </h3>
 <h4 align = "center" >
  <!-- download cv button -->
 <a href="https://github.com/Alierenkayhan/Alierenkayhan.github.io/raw/master/files/Ali%20Eren%20Kayhan%20CV.pdf">
