@@ -277,6 +277,7 @@
 <br>
 
 <!-- YT_VIDEO_LIST:START -->
+- [Hypnose trailer](https://www.youtube.com/watch?v=P0CQN6WqnPw)
 - [Maiden&#39;s Tower](https://www.youtube.com/watch?v=vhLofszTsuM)
 - [The Virus Demo 0.2 – Offical trailer](https://www.youtube.com/watch?v=yDvptDXH0Ug)
 - [How to make a game with scratch](https://www.youtube.com/watch?v=p2tdAo80aUw)
