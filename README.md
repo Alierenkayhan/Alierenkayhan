@@ -12,7 +12,7 @@
 
 <p><img align="left" src="images/image/image.png" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Ali Eren Kayhan </h1>
-<h3 align = "center" > 💻 Junior Software developer | Full Stack Developer | Dotnet, React, C#, Python |🌱 Senior Student @ CET BOUN </h3>
+<h3 align = "center" > 💻 Developer | DevOps | Full Stack Developer | Dotnet, React, C#, Python, PHP, React, Redux, React Native </h3>
 <h4 align = "center" >
  <!-- download cv button -->
 <a href="https://github.com/Alierenkayhan/Alierenkayhan.github.io/raw/master/files/Ali%20Eren%20Kayhan%20CV.pdf">
@@ -35,10 +35,10 @@
 <p><img align="right" src="images/gif/gif2.gif" alt="Alierenkayhan" width ="230" height = "320" /></p>
  
 - 🇹🇷  I live in Istanbul, Turkey.
-- 🚀 I am an Entrepreneur.
+- 🚀 I am an developer.
 - 🗣️ I can speak English, Turkish, and German.
-- 📚 I'm studying Computer Education and Educational Technology (CET) at Boğaziçi University.
-- 🔭 I’m not currently working.   
+- 📚 I graduated with a GPA of 3.54, earning the title of second in Computer Education and Educational Technology (CET) at Boğaziçi University, the Special Secretary Award, and High Honors.
+- 🔭 I’m currently working in Memoria Bilişim ve Medya A.Ş as a Full Stack Developer.   
 - 🌱 I’m currently learning Web Development and Cyber Security.
 - 💬 Ask me about anything.
 - 📫 How to reach me: a.erenkayhan@gmail.com
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<a href="https://alierenkayhan.github.io/"><img src="https://img.shields.io/badge/-PersonalWebsite-444bff?style=for-the-badge&logo" height="40"  /></a>&nbsp;
+<a href="https://alierenkayhan.com/"><img src="https://img.shields.io/badge/-PersonalWebsite-444bff?style=for-the-badge&logo" height="40"  /></a>&nbsp;
  
 <a href="mailto:ali_erenbatman@hotmail.com?subject=From My Github page"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="40"/></a>&nbsp;
 <img src="https://img.shields.io/badge/ali eren kayhan-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="40" />&nbsp;
@@ -95,64 +95,15 @@
 <details>
   <h2 align="center">🧰 Languages and Tools 🧰</h2>
  <summary> 🧰 Languages and Tools</summary> 
-   <br>
-<div align="center"> 
-  <img src="images/languages and tools logo/csharp.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/css.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;&nbsp; 
-  <img src="images/languages and tools logo/bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/mssql.png" title="Mssql" alt="Mssql" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/unity.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/asp.net mvc core.jfif" title="AspddotnetMVC" alt="Asp.net mvc core" width="40" height="40"/>&nbsp;&nbsp;  
-  <img src="images/languages and tools logo/Git-Logo.jpg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp; 
-</div>
-  <br>
-  
-<div style="text-align:center;">
-  💾 Database: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img  src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-      
-  🎨 Design: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white" />
+ 
+ <p>C#, MSSQL, GIT, JQuery, Tailwind CSS, Vite.js, Next.js, Docker, Cisco Packet Tracer,
+Database Design, MQTT, IoT, PostSQL, MySQL, PHP, Template Engine, React, Javascript,
+Django, Python, API design, System Design, DevOps, Reverse Engineering, JSON, Test
+Automation, Selenium, R, Machine learning, React Native, Ubuntu, ISS, Redux,Unity,Game
+Development, Game Design,API Integration,Database Management,OCR Technology,
+Redis, Microservices, N-Tier Architecture, Onion Architecture,CQRS, Mediator, ELK Stack
+(Elasticsearch, Logstash, Kibana)</p>
 
-  📚 Frameworks & Library: &nbsp; 
-  <img  src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
-  
-  🎮 Game Engine: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  2D-3D game & AR = <img  src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  VR = <img  src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  
-  🕓 Version Control: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-   
-  💻 IDE: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img  src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  
-  💻 Code Editor: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-   
-  📋 Languages: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-  💻 OS: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  
-  🖨 3D printer: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  Prusa
-
- </div>
-<br>
 </details>
 
 
