@@ -227,11 +227,11 @@ Redis, Microservices, N-Tier Architecture, Onion Architecture,CQRS, Mediator, EL
 <br>
 
 <!-- YT_VIDEO_LIST:START -->
+- [Python&#39;a Giriş: Temel Kavramlar ve İlk Adımlar](https://www.youtube.com/watch?v=Eglu9Zx1z9c)
 - [Hypnose trailer](https://www.youtube.com/watch?v=P0CQN6WqnPw)
 - [Maiden&#39;s Tower](https://www.youtube.com/watch?v=vhLofszTsuM)
 - [The Virus Demo 0.2 – Offical trailer](https://www.youtube.com/watch?v=yDvptDXH0Ug)
 - [How to make a game with scratch](https://www.youtube.com/watch?v=p2tdAo80aUw)
-- [Mr Academic World Ali Eren Kayhan | Official Trailer](https://www.youtube.com/watch?v=ypfQwqk5MHY)
 <!-- YT_VIDEO_LIST:END -->
 
 <br>
