@@ -208,11 +208,11 @@ Redis, Microservices, N-Tier Architecture, Onion Architecture,CQRS, Mediator, EL
  <h3>My Lastest TED videos that I review </h3>
  
 <!-- TED_REVIEW_VIDEO_LIST:START -->
+- [The Untold Power Of Positivity | Aarya Adhia | TEDxNESIntlSchool](https://www.youtube.com/watch?v=txw5roRYl5E)
 - [A movie for all | Elisa Grosse | TEDxYouth@BerlinCosmopolitanSchool](https://www.youtube.com/watch?v=VEJ8fDooHAM)
 - [Navigating Fear in a New Era of Uncertainty | Holly Jean Jackson | TEDxApex](https://www.youtube.com/watch?v=TqI4XOsMSdg)
 - [A child&#39;s Ukraine | Liza Tarasova | TEDxEatonSquarePrep](https://www.youtube.com/watch?v=0E0YIE9PB14)
 - [Starting small | Skate Lapus | TEDxYouth@Chatham](https://www.youtube.com/watch?v=iVdDVzlqmBE)
-- [Poetic Stickup: Put the Financial Aid in the Bag](https://www.youtube.com/watch?v=iMGRpzf2RL8)
 <!-- TED_REVIEW_VIDEO_LIST:END -->
  
 <br>
