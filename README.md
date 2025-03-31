@@ -179,11 +179,11 @@ Redis, Microservices, N-Tier Architecture, Onion Architecture,CQRS, Mediator, EL
  <h3>My Lastest Blog From Medium</h3>
  
 <!-- MEDIUM_BLOG_LIST:START -->
+- [Kendi ChatGPT’nizi Kurun: Ollama ile Yerel LLM Modellerini Çalıştırın](https://medium.com/@alierenkayhan/kendi-chatgptnizi-kurun-ollama-ile-yerel-llm-modellerini-%C3%A7al%C4%B1%C5%9Ft%C4%B1r%C4%B1n-f2818008b3b4?source=rss-f029ad9d562f------2)
 - [Are you ready for a journey to Virtual Reality?](https://medium.com/nottutuyoruz/are-you-ready-for-a-journey-to-virtual-reality-de5e93746729?source=rss-f029ad9d562f------2)
 - [How to Become a TED Talks Translator](https://medium.com/nottutuyoruz/how-to-become-a-ted-talks-translator-2146f767059?source=rss-f029ad9d562f------2)
 - [How to Build an Awesome Github Profile](https://medium.com/nottutuyoruz/how-to-build-an-awesome-github-profile-f9359c4310dd?source=rss-f029ad9d562f------2)
 - [Neden Bilgisayar Eğitimi ve Eğitim Teknolojileri bölümünde okumalısınız?](https://medium.com/nottutuyoruz/neden-bilgisayar-egitimi-ve-egitim-teknolojileri-bolumunde-okumalisiniz-1ee1c3ce0bf7?source=rss-f029ad9d562f------2)
-- [How To Create An University Networking System In Cisco Packet Tracer](https://medium.com/@alierenkayhan/creating-university-network-system-in-cisco-packet-tracer-7bf3a5b8c296?source=rss-f029ad9d562f------2)
 <!-- MEDIUM_BLOG_LIST:END -->
 <br>
 </details>
