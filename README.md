@@ -199,7 +199,7 @@ Redis, Microservices, N-Tier Architecture, Onion Architecture,CQRS, Mediator, EL
  
 <!-- TED_VIDEO_LIST:START -->
 - [What is a gig economy?](https://www.youtube.com/watch?v=OXT8xdqcAoU)
-- [Coneheads, egg stacks and anteater attacks: The reign of a termite queen - Barbara L. Thorne](https://www.youtube.com/watch?v=JGnXq8l-rwo)
+- [Coneheads, egg stacks, and anteater attacks: The reign of a termite queen - Barbara L. Thorne](https://www.youtube.com/watch?v=JGnXq8l-rwo)
 - [The Boltzmann brain paradox - Fabio Pacucci](https://www.youtube.com/watch?v=OpohbXB_JZU)
 - [The true cost of gold -  Lyla Latif](https://www.youtube.com/watch?v=1nglN3mfZUw)
 - [The 4 greatest threats to the survival of humanity](https://www.youtube.com/watch?v=WP6T4MH0Dn4)
