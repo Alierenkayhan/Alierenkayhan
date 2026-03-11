@@ -12,7 +12,7 @@
 
 <p><img align="left" src="images/image/image.png" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
 <h1 align = "center" >Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Ali Eren Kayhan </h1>
-<h3 align = "center" > 💻 Developer | DevOps | Full Stack Developer | Dotnet, React, C#, Python, PHP, React, Redux, React Native </h3>
+<h3 align = "center" > 💻 Full Stack Developer | Technology & Robotics Coordinator | Dotnet, React, C#, Python, Unity, AI/ML </h3>
 <h4 align = "center" >
  <!-- download cv button -->
 <a href="https://github.com/Alierenkayhan/Alierenkayhan.github.io/raw/master/files/Ali%20Eren%20Kayhan%20CV.pdf">
@@ -28,17 +28,17 @@
 
 <!---------------------------------------------------------About Me------------------------------------------------------------------------------------------>  
 <details>
- <h2 align="center">:man_technologist: About Me :man_technologist:</h2>
  <summary> :man_technologist: About Me</summary> 
- 
+ <h2 align="center">:man_technologist: About Me :man_technologist:</h2>
 
 <p><img align="right" src="images/gif/gif2.gif" alt="Alierenkayhan" width ="230" height = "320" /></p>
- 
+
 - 🇹🇷  I live in Istanbul, Turkey.
-- 🚀 I am an developer.
+- 🚀 I am a Full Stack Developer & Technology Educator.
 - 🗣️ I can speak English, Turkish, and German.
 - 📚 I graduated with a GPA of 3.54, earning the title of second in Computer Education and Educational Technology (CET) at Boğaziçi University, the Special Secretary Award, and High Honors.
-- 🌱 I’m currently learning Web Development and Cyber Security.
+- 🎓 I'm currently pursuing an MSc in Educational Technology at Boğaziçi University.
+- 🌱 I'm currently learning AI/ML, Cyber Security, and Educational Technology.
 - 💬 Ask me about anything.
 - 📫 How to reach me: a.erenkayhan@gmail.com
 
@@ -52,8 +52,8 @@
 <!---------------------------------------------------------My Accounts----------------------------------------------------------------------------------------->  
 
 <details>
-<h2 align="center">📫 My Accounts 📫</h2>
 <summary>📫 My Accounts </summary> 
+<h2 align="center">📫 My Accounts 📫</h2>
 
 <p align="center"><img src="images/gif/githubgif.gif" alt="Alierenkayhan" width ="110" height = "110" style="border-radius: 5px 30px 10px 50px;" /></p>
 
@@ -92,8 +92,9 @@
 <!---------------------------------------------------------Languages and Tools:----------------------------------------------------------------------------------------->  
 
 <details>
-  <h2 align="center">🧰 Languages and Tools 🧰</h2>
  <summary> 🧰 Languages and Tools</summary> 
+<h2 align="center">🧰 Languages and Tools 🧰</h2>
+
  
  <p>C#, MSSQL, GIT, JQuery, Tailwind CSS, Vite.js, Next.js, Docker, Cisco Packet Tracer,
 Database Design, MQTT, IoT, PostSQL, MySQL, PHP, Template Engine, React, Javascript,
@@ -109,8 +110,8 @@ Redis, Microservices, N-Tier Architecture, Onion Architecture,CQRS, Mediator, EL
 <!---------------------------------------------------------Github Information----------------------------------------------------------------------------------------->  
 
 <details>
- <h2 align="center">:information_source: Github Information :information_source:</h2>
-<summary> :information_source:	Github Information</summary> <br>
+ <summary> :information_source:	Github Information</summary>  
+ <h2 align="center">:information_source: Github Information :information_source:</h2><br>
  <div align="center" style="display: inline-flex;">
   
  <img src="https://github-readme-stats.vercel.app/api?username=Alierenkayhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" align="center"  width="47%"/>
