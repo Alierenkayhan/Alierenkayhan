@@ -38,7 +38,6 @@
 - 🚀 I am an developer.
 - 🗣️ I can speak English, Turkish, and German.
 - 📚 I graduated with a GPA of 3.54, earning the title of second in Computer Education and Educational Technology (CET) at Boğaziçi University, the Special Secretary Award, and High Honors.
-- 🔭 I’m currently working in Memoria Bilişim ve Medya A.Ş as a Full Stack Developer.   
 - 🌱 I’m currently learning Web Development and Cyber Security.
 - 💬 Ask me about anything.
 - 📫 How to reach me: a.erenkayhan@gmail.com
