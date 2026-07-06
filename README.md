@@ -169,11 +169,11 @@ Redis, Microservices, N-Tier Architecture, Onion Architecture,CQRS, Mediator, EL
  <h3>My Lastest Blog From Blogger</h3>
  
 <!-- BLOG-POST-LIST:START -->
+- [The Mind Beneath the Surface: Depth Psychology, Behaviorism, and the Modern Unconscious](https://alierenkayhanbouncet.blogspot.com/2026/07/the-mind-beneath-surface-depth.html)
 - [CET 441.01 - EduFlix &lpar;Conscience - Crossroads&rpar;](https://alierenkayhanbouncet.blogspot.com/2024/02/cet-44101-eduflix-conscience-crossroads.html)
 - [CET 401 Homework of Preparing Research  Proposal - 2](https://alierenkayhanbouncet.blogspot.com/2024/01/cet-401-homework-of-preparing-research_27.html)
 - [CET 401 Homework of Preparing Research  Proposal - 1](https://alierenkayhanbouncet.blogspot.com/2024/01/cet-401-homework-of-preparing-research.html)
 - [How to Build Madien&#39;s Tower?](https://alierenkayhanbouncet.blogspot.com/2023/01/how-to-build-madienstower.html)
-- [Energy plan for German &lpar;STS 488 Final Assignment&rpar;](https://alierenkayhanbouncet.blogspot.com/2022/06/energy-plan-for-german-sts-488-final.html)
 <!-- BLOG-POST-LIST:END -->
 
  <h3>My Lastest Blog From Medium</h3>
