@@ -169,11 +169,11 @@ Redis, Microservices, N-Tier Architecture, Onion Architecture,CQRS, Mediator, EL
  <h3>My Lastest Blog From Blogger</h3>
  
 <!-- BLOG-POST-LIST:START -->
+- [Vygotsky and Sociocultural Theory](https://alierenkayhanbouncet.blogspot.com/2026/07/vygotsky-and-sociocultural-theory.html)
+- [Situated Learning](https://alierenkayhanbouncet.blogspot.com/2026/07/situated-learning.html)
+- [Piagetian Constructivism](https://alierenkayhanbouncet.blogspot.com/2026/07/piagetian-constructivism.html)
+- [Brain Based Learning &amp; Social Learning Theory](https://alierenkayhanbouncet.blogspot.com/2026/07/brain-based-learning-social-learning.html)
 - [Motivation and Self-Regulation](https://alierenkayhanbouncet.blogspot.com/2026/07/motivation-and-self-regulation.html)
-- [Cognitive Information Processing](https://alierenkayhanbouncet.blogspot.com/2026/07/cognitive-information-processing.html)
-- [The Mind Beneath the Surface: Depth Psychology, Behaviorism, and the Modern Unconscious](https://alierenkayhanbouncet.blogspot.com/2026/07/the-mind-beneath-surface-depth.html)
-- [CET 441.01 - EduFlix &lpar;Conscience - Crossroads&rpar;](https://alierenkayhanbouncet.blogspot.com/2024/02/cet-44101-eduflix-conscience-crossroads.html)
-- [CET 401 Homework of Preparing Research  Proposal - 2](https://alierenkayhanbouncet.blogspot.com/2024/01/cet-401-homework-of-preparing-research_27.html)
 <!-- BLOG-POST-LIST:END -->
 
  <h3>My Lastest Blog From Medium</h3>
