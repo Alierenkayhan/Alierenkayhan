@@ -169,11 +169,11 @@ Redis, Microservices, N-Tier Architecture, Onion Architecture,CQRS, Mediator, EL
  <h3>My Lastest Blog From Blogger</h3>
  
 <!-- BLOG-POST-LIST:START -->
+- [Activity Theory](https://alierenkayhanbouncet.blogspot.com/2026/07/activity-theory.html)
+- [Discovery Learning](https://alierenkayhanbouncet.blogspot.com/2026/07/discovery-learning.html)
 - [Vygotsky and Sociocultural Theory](https://alierenkayhanbouncet.blogspot.com/2026/07/vygotsky-and-sociocultural-theory.html)
 - [Situated Learning](https://alierenkayhanbouncet.blogspot.com/2026/07/situated-learning.html)
 - [Piagetian Constructivism](https://alierenkayhanbouncet.blogspot.com/2026/07/piagetian-constructivism.html)
-- [Brain Based Learning &amp; Social Learning Theory](https://alierenkayhanbouncet.blogspot.com/2026/07/brain-based-learning-social-learning.html)
-- [Motivation and Self-Regulation](https://alierenkayhanbouncet.blogspot.com/2026/07/motivation-and-self-regulation.html)
 <!-- BLOG-POST-LIST:END -->
 
  <h3>My Lastest Blog From Medium</h3>
